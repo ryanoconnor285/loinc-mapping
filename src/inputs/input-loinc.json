@@ -1,0 +1,1577 @@
+[
+  {
+    "code": "10333-3",
+    "desc": "Appearance:Aper:Pt:CSF:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10334-1",
+    "desc": "Cancer Ag 125:ACnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10335-8",
+    "desc": "Color:Type:Pt:CSF:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10378-8",
+    "desc": "Polychromasia:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10380-4",
+    "desc": "Stomatocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10381-2",
+    "desc": "Target cells:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10535-3",
+    "desc": "Digoxin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10834-0",
+    "desc": "Globulin:MCnc:Pt:Ser:Qn:Calculated",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "10839-9",
+    "desc": "Troponin I.cardiac:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "11054-4",
+    "desc": "11054-4: Cholesterol.in LDL/Cholesterol.in HDL:MRto:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "11277-1",
+    "desc": "11277-1: Epithelial cells.squamous:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "11572-5",
+    "desc": "Rheumatoid factor:ACnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "11579-0",
+    "desc": "Thyrotropin:ACnc:Pt:Ser/Plas:Qn:Detection limit <= 0.05 mIU/L",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "12187-1",
+    "desc": "Creatine kinase.MB/Creatine kinase.total:CFr:Pt:Ser/Plas:Qn:Electrophoresis",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "12209-3",
+    "desc": "Eosinophils/100 leukocytes:NFr:Pt:Body fld:Qn:Manual count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "12227-5",
+    "desc": "12227-5: Leukocytes^^corrected for nucleated erythrocytes:NCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "12454-5",
+    "desc": "Urate crystals.amorphous:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "12967-6",
+    "desc": "Urea nitrogen:MCnc:24H:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13046-8",
+    "desc": "Lymphocytes.variant/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1305-2",
+    "desc": "D Ag:PrThr:Pt:Bld:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13169-8",
+    "desc": "Interpretation:Imp:Pt:Ser/Plas:Nom:Immunoelectrophoresis",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13317-3",
+    "desc": "Staphylococcus aureus.methicillin resistant isolate:PrThr:Pt:XXX:Ord:Organism specific culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13457-7",
+    "desc": "13457-7: Cholesterol.in LDL:MCnc:Pt:Ser/Plas:Qn:Calculated",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13458-5",
+    "desc": "13458-5: Cholesterol.in VLDL:MCnc:Pt:Ser/Plas:Qn:Calculated",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13834-7",
+    "desc": "IgE.total:ACnc:Pt:Ser:Qn:RAST",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13941-0",
+    "desc": "Lymphocytes/100 leukocytes:NFr:Pt:Body fld:Qn:Manual count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13950-1",
+    "desc": "Hepatitis A virus Ab.IgM:PrThr:Pt:Ser/Plas:Ord:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13952-7",
+    "desc": "Hepatitis B virus core Ab:PrThr:Pt:Ser/Plas:Ord:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13964-2",
+    "desc": "Methylmalonate:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "13990-7",
+    "desc": "Alpha 1 globulin/Protein.total:MFr:Pt:Urine:Qn:Electrophoresis",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14118-4",
+    "desc": "Lactate:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14196-0",
+    "desc": "Reticulocytes:NCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14314-9",
+    "desc": "Benzoylecgonine:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14316-4",
+    "desc": "Benzodiazepines:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14327-1",
+    "desc": "Epithelial cells.squamous:PrThr:Pt:Sputum:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14338-8",
+    "desc": "Prealbumin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14627-4",
+    "desc": "14627-4: Bicarbonate:SCnc:Pt:BldV:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14957-5",
+    "desc": "Albumin:MCnc:Pt:Urine:Qn:Detection limit <= 20 mg/L",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14959-1",
+    "desc": "Albumin/Creatinine:MRto:Pt:Urine:Qn:Detection limit <= 20 mg/L",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "14979-9",
+    "desc": "14979-9: Coagulation surface induced:Time:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "15061-5",
+    "desc": "Erythropoietin:ACnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "15152-2",
+    "desc": "Bilirubin.glucuronidated:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16135-6",
+    "desc": "Beta 2 glycoprotein 1 Ab.IgG:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16136-4",
+    "desc": "Beta 2 glycoprotein 1 Ab.IgM:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16250-3",
+    "desc": "Codeine:MCnc:Pt:Urine:Qn:Confirm",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16251-1",
+    "desc": "Morphine:MCnc:Pt:Urine:Qn:Confirm",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16252-9",
+    "desc": "Hydrocodone:MCnc:Pt:Urine:Qn:Confirm",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1649-3",
+    "desc": "Calcitriol:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16935-9",
+    "desc": "Hepatitis B virus surface Ab:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "16998-7",
+    "desc": "Hydromorphone:MCnc:Pt:Urine:Qn:Confirm",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1742-6",
+    "desc": "1742-6: Alanine aminotransferase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1747-5",
+    "desc": "Albumin:MCnc:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1752-5",
+    "desc": "1752-5: Albumin:MCnc:Pt:Synv fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1759-0",
+    "desc": "Albumin/Globulin:MRto:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1763-2",
+    "desc": "Aldosterone:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "17652-9",
+    "desc": "Streptococcus pneumoniae Ag:PrThr:Pt:XXX:Ord:LA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "17861-6",
+    "desc": "17861-6: Calcium:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "17864-0",
+    "desc": "Calcium.ionized:MCnc:Pt:Ser/Plas:Qn:ISE",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1795-4",
+    "desc": "Amylase:CCnc:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1798-8",
+    "desc": "Amylase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "18262-6",
+    "desc": "18262-6: Cholesterol.in LDL:MCnc:Pt:Ser/Plas:Qn:Direct assay",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "18282-4",
+    "desc": "Cannabinoids:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "18481-2",
+    "desc": "Streptococcus pyogenes Ag:PrThr:Pt:Thrt:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19075-1",
+    "desc": "Cells counted.total:Num:Pt:CSF:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19123-9",
+    "desc": "19123-9: Magnesium:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19124-7",
+    "desc": "Magnesium:MCnc:Pt:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19161-9",
+    "desc": "Urobilinogen:ACnc:Pt:Urine:Qn:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1920-8",
+    "desc": "1920-8: Aspartate aminotransferase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1925-7",
+    "desc": "1925-7: Base excess:SCnc:Pt:BldA:Qn:Calculated",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19261-7",
+    "desc": "Amphetamines:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19270-8",
+    "desc": "Barbiturates:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1927-3",
+    "desc": "1927-3: Base excess:SCnc:Pt:BldV:Qn:Calculated",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19295-5",
+    "desc": "Opiates:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19343-3",
+    "desc": "Amphetamine:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1960-4",
+    "desc": "1960-4: Bicarbonate:SCnc:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19642-8",
+    "desc": "Oxycodone:PrThr:Pt:Urine:Ord:Screen",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1971-1",
+    "desc": "Bilirubin.non-glucuronidated:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1975-2",
+    "desc": "1975-2: Bilirubin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "19764-0",
+    "desc": "Statement of adequacy:Imp:Pt:Cvx/Vag:Nom:Cyto stain",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1988-5",
+    "desc": "C reactive protein:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "1989-3",
+    "desc": "Calcidiol:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2019-8",
+    "desc": "2019-8: Carbon dioxide:PPres:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2021-4",
+    "desc": "2021-4: Carbon dioxide:PPres:Pt:BldV:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2028-9",
+    "desc": "2028-9: Carbon dioxide:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2039-6",
+    "desc": "Carcinoembryonic Ag:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "20407-3",
+    "desc": "20407-3: Nitrite:MCnc:Pt:Urine:Qn:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "20408-1",
+    "desc": "Leukocytes:NCnc:Pt:Urine:Qn:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "20409-9",
+    "desc": "Erythrocytes:NCnc:Pt:Urine:Qn:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "20454-5",
+    "desc": "20454-5: Protein:PrThr:Pt:Urine:Ord:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "20507-0",
+    "desc": "Reagin Ab:PrThr:Pt:Ser:Ord:RPR",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "20578-1",
+    "desc": "Vancomycin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2064-4",
+    "desc": "Ceruloplasmin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2075-0",
+    "desc": "2075-0: Chloride:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2079-2",
+    "desc": "Chloride:SRat:24H:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2085-9",
+    "desc": "2085-9: Cholesterol.in HDL:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2091-7",
+    "desc": "2091-7: Cholesterol.in VLDL:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2093-3",
+    "desc": "2093-3: Cholesterol:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2112-1",
+    "desc": "Choriogonadotropin.beta subunit (pregnancy test):PrThr:Pt:Urine:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "21260-5",
+    "desc": "Epstein Barr virus nuclear Ab:Titr:Pt:Ser:Qn:IF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2132-9",
+    "desc": "Cobalamins:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2143-6",
+    "desc": "Cortisol:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "21525-1",
+    "desc": "Sodium:SCnc:24H:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2157-6",
+    "desc": "Creatine kinase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2160-0",
+    "desc": "2160-0: Creatinine:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2161-8",
+    "desc": "Creatinine:MCnc:Pt:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "22327-1",
+    "desc": "Hepatitis C virus Ab:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "22763-7",
+    "desc": "Ammonia:MCnc:Pt:Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2276-4",
+    "desc": "Ferritin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2284-8",
+    "desc": "Folate:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2324-2",
+    "desc": "Gamma glutamyl transferase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2334-1",
+    "desc": "Hemoglobin.gastrointestinal:PrThr:Pt:Gast fld:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2339-0",
+    "desc": "Glucose:MCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2342-4",
+    "desc": "Glucose:MCnc:Pt:CSF:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2344-0",
+    "desc": "Glucose:MCnc:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2345-7",
+    "desc": "2345-7: Glucose:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2349-9",
+    "desc": "2349-9: Glucose:PrThr:Pt:Urine:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2357-2",
+    "desc": "Glucose-6-Phosphate dehydrogenase:CCnc:Pt:RBC:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "23860-0",
+    "desc": "23860-0: Erythrocytes:NCnc:Pt:Body fld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "24108-3",
+    "desc": "Cancer Ag 19-9:ACnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "24113-3",
+    "desc": "Hepatitis B virus core Ab.IgM:PrThr:Pt:Ser/Plas:Ord:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2458-8",
+    "desc": "IgA:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2465-3",
+    "desc": "IgG:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2472-9",
+    "desc": "IgM:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2498-4",
+    "desc": "Iron:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2500-7",
+    "desc": "Iron binding capacity:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2501-5",
+    "desc": "Iron binding capacity.unsaturated:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2502-3",
+    "desc": "Iron saturation:MFr:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2514-8",
+    "desc": "2514-8: Ketones:PrThr:Pt:Urine:Ord:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2518-9",
+    "desc": "Lactate:SCnc:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2524-7",
+    "desc": "Lactate:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2529-6",
+    "desc": "Lactate dehydrogenase:CCnc:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2532-0",
+    "desc": "Lactate dehydrogenase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2571-8",
+    "desc": "2571-8: Triglyceride:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26052-1",
+    "desc": "Epithelial cells.renal:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26449-9",
+    "desc": "Eosinophils:NCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26450-7",
+    "desc": "26450-7: Eosinophils/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26478-8",
+    "desc": "26478-8: Lymphocytes/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26485-3",
+    "desc": "26485-3: Monocytes/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26487-9",
+    "desc": "Monocytes/100 leukocytes:NFr:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26507-4",
+    "desc": "Neutrophils.band form:NCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26508-2",
+    "desc": "Neutrophils.band form/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26511-6",
+    "desc": "26511-6: Neutrophils/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "26513-2",
+    "desc": "Neutrophils/100 leukocytes:NFr:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2692-2",
+    "desc": "Osmolality:Osmol:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2695-5",
+    "desc": "Osmolality:Osmol:Pt:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2703-7",
+    "desc": "2703-7: Oxygen:PPres:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2705-2",
+    "desc": "2705-2: Oxygen:PPres:Pt:BldV:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2708-6",
+    "desc": "Oxygen saturation:MFr:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "27215-3",
+    "desc": "http://loinc.org",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2731-8",
+    "desc": "Parathyrin.intact:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "27340-9",
+    "desc": "27340-9: Cholesterol.in HDL:PrThr:Pt:Ser/Plas:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2744-1",
+    "desc": "2744-1: pH:LsCnc:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2746-6",
+    "desc": "2746-6: pH:LsCnc:Pt:BldV:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2748-2",
+    "desc": "pH:LsCnc:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2777-1",
+    "desc": "Phosphate:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "27822-6",
+    "desc": "Protein S actual/Normal:RelTime:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2823-3",
+    "desc": "2823-3: Potassium:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2828-2",
+    "desc": "Potassium:SCnc:Pt:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "28541-1",
+    "desc": "Metamyelocytes/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "28543-7",
+    "desc": "Basophils/100 leukocytes:NFr:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2857-1",
+    "desc": "Prostate specific Ag:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "28642-7",
+    "desc": "28642-7: Oxygen saturation:MFr:Pt:BldCoA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "28643-5",
+    "desc": "28643-5: Oxygen saturation:MFr:Pt:BldCoV:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2880-3",
+    "desc": "Protein:MCnc:Pt:CSF:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2881-1",
+    "desc": "Protein:MCnc:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2885-2",
+    "desc": "Protein:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2889-4",
+    "desc": "Protein:MRat:24H:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2947-0",
+    "desc": "Sodium:SCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2951-2",
+    "desc": "2951-2: Sodium:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "29615-2",
+    "desc": "Hepatitis B virus DNA:NCnc:Pt:Ser/Plas:Qn:Probe.amp.tar",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2965-2",
+    "desc": "2965-2: Specific gravity:Rden:Pt:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "2986-8",
+    "desc": "Testosterone:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30089-7",
+    "desc": "Transitional cells:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30180-4",
+    "desc": "30180-4: Basophils/100 leukocytes:NFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3024-7",
+    "desc": "Thyroxine.free:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3026-2",
+    "desc": "Thyroxine:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30313-1",
+    "desc": "Hemoglobin:MCnc:Pt:BldA:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3034-6",
+    "desc": "Transferrin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3040-3",
+    "desc": "Triacylglycerol lipase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30405-5",
+    "desc": "Leukocytes:NCnc:Pt:Urine:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30436-0",
+    "desc": "Monocytes+Macrophages/100 leukocytes:NFr:Pt:CSF:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30437-8",
+    "desc": "Monocytes+Macrophages/100 leukocytes:NFr:Pt:Body fld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3051-0",
+    "desc": "Triiodothyronine.free:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3053-6",
+    "desc": "Triiodothyronine:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3084-1",
+    "desc": "Urate:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "30934-4",
+    "desc": "Natriuretic peptide.B:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3094-0",
+    "desc": "3094-0: Urea nitrogen:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3097-3",
+    "desc": "3097-3: Urea nitrogen/Creatinine:MRto:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3174-0",
+    "desc": "Antithrombin:ACnc:Pt:PPP:Qn:Chromo",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3181-5",
+    "desc": "Cardiolipin Ab.IgG:ACnc:Pt:Ser:Qn:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3182-3",
+    "desc": "Cardiolipin Ab.IgM:ACnc:Pt:Ser:Qn:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3209-4",
+    "desc": "Coagulation factor VIII activity actual/Normal:RelTime:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "32167-9",
+    "desc": "32167-9: Clarity:Type:Pt:Urine:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "32356-8",
+    "desc": "Yeast:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3255-7",
+    "desc": "Fibrinogen:MCnc:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "32623-1",
+    "desc": "32623-1: Platelet mean volume:EntVol:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "32684-3",
+    "desc": "Heparin.low molecular weight:ACnc:Pt:PPP:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3273-0",
+    "desc": "Heparin.unfractionated:ACnc:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3274-8",
+    "desc": "Heparin.unfractionated:ACnc:Pt:PPP:Qn:Chromo",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3284-7",
+    "desc": "Lupus anticoagulant neutralization.platelet:Time:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3299-5",
+    "desc": "Acetaminophen:PrThr:Pt:Urine:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "32998-7",
+    "desc": "Tissue transglutaminase Ab.IgG:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "33037-3",
+    "desc": "Anion gap:SCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "33249-4",
+    "desc": "Hyperchromia:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "33768-3",
+    "desc": "Leukocyte clumps:NCnc:Pt:Urine:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "33905-1",
+    "desc": "Trichomonas sp:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "33914-3",
+    "desc": "Glomerular filtration rate/1.73 sq M.predicted:ArVRat:Pt:Ser/Plas:Qn:Creatinine-based formula (MDRD)",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3397-7",
+    "desc": "Cocaine:PrThr:Pt:Urine:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "3413-2",
+    "desc": "Buprenorphine:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "34661-9",
+    "desc": "Actin Ab.IgG:ACnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4024-6",
+    "desc": "Salicylates:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "40665-2",
+    "desc": "Reticulocytes:NCnc:Pt:Bld:Qn:Manual",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4092-3",
+    "desc": "Vancomycin^trough:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "43304-5",
+    "desc": "Chlamydia trachomatis rRNA:PrThr:Pt:XXX:Ord:Probe.amp.tar",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "43396-1",
+    "desc": "43396-1: Cholesterol.non HDL:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "43874-7",
+    "desc": "Influenza virus A Ag:PrThr:Pt:Nph:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "43895-2",
+    "desc": "Influenza virus B Ag:PrThr:Pt:Nph:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "44812-6",
+    "desc": "Yeast.hyphae:PrThr:Pt:XXX:Ord:Wet preparation",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4485-9",
+    "desc": "Complement C3:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4498-2",
+    "desc": "Complement C4:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4537-7",
+    "desc": "Erythrocyte sedimentation rate:Vel:Pt:Bld:Qn:Westergren",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4542-7",
+    "desc": "Haptoglobin:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4544-3",
+    "desc": "4544-3: Hematocrit:VFr:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "4548-4",
+    "desc": "Hemoglobin A1c/Hemoglobin.total:MFr:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "46082-4",
+    "desc": "Influenza virus A Ag:PrThr:Pt:Nph:Ord:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "46083-2",
+    "desc": "Influenza virus B Ag:PrThr:Pt:Nph:Ord:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "48065-7",
+    "desc": "Fibrin D-dimer FEU:MCnc:Pt:PPP:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "48642-3",
+    "desc": "48642-3: Glomerular filtration rate/1.73 sq M.predicted.non black:ArVRat:Pt:Ser/Plas:Qn:Creatinine-based formula (MDRD)",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "48643-1",
+    "desc": "48643-1: Glomerular filtration rate/1.73 sq M.predicted.black:ArVRat:Pt:Ser/Plas:Qn:Creatinine-based formula (MDRD)",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "50410-0",
+    "desc": "Coagulation dilute Russell viper venom induced/Coagulation dilute Russell viper venom induced.excess phospholipid:Ratio:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "50595-8",
+    "desc": "Pathologist interpretation:Imp:Pt:XXX:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5124-3",
+    "desc": "Cytomegalovirus Ab.IgG:ACnc:Pt:Ser/Plas:Qn:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5126-8",
+    "desc": "Cytomegalovirus Ab.IgM:ACnc:Pt:Ser:Qn:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5130-0",
+    "desc": "DNA double strand Ab:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5196-1",
+    "desc": "Hepatitis B virus surface Ag:PrThr:Pt:Ser/Plas:Ord:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5403-1",
+    "desc": "Varicella zoster virus Ab.IgG:ACnc:Pt:Ser:Qn:IA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "547-0",
+    "desc": "Streptococcus.beta-hemolytic:PrThr:Pt:XXX:Ord:Organism specific culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5631-7",
+    "desc": "Copper:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5644-0",
+    "desc": "Ethanol:PrThr:Pt:Urine:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5763-8",
+    "desc": "Zinc:MCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5769-5",
+    "desc": "5769-5: Bacteria:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5770-3",
+    "desc": "5770-3: Bilirubin:PrThr:Pt:Urine:Ord:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5774-5",
+    "desc": "Calcium oxalate crystals:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5793-5",
+    "desc": "Granular casts:Naric:Pt:Urine sed:Qn:Microscopy.light.LPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5794-3",
+    "desc": "Hemoglobin:PrThr:Pt:Urine:Ord:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5796-8",
+    "desc": "Hyaline casts:Naric:Pt:Urine sed:Qn:Microscopy.light.LPF",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5799-2",
+    "desc": "5799-2: Leukocyte esterase:PrThr:Pt:Urine:Ord:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "580-1",
+    "desc": "Fungus identified:Prid:Pt:XXX:Nom:Culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5803-2",
+    "desc": "5803-2: pH:LsCnc:Pt:Urine:Qn:Test strip",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5814-9",
+    "desc": "Triple phosphate crystals:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5817-2",
+    "desc": "Urate crystals:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5901-4",
+    "desc": "Coagulation tissue factor induced:Time:Pt:PPP^Control:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5902-2",
+    "desc": "5902-2: Coagulation tissue factor induced:Time:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "5908-9",
+    "desc": "Platelets.giant:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "600-7",
+    "desc": "Bacteria identified:Prid:Pt:Bld:Nom:Culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6007-9",
+    "desc": "Protein C:ACnc:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6298-4",
+    "desc": "Potassium:SCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6301-6",
+    "desc": "6301-6: Coagulation tissue factor induced.INR:RelTime:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6303-2",
+    "desc": "Coagulation dilute Russell viper venom induced:Time:Pt:PPP:Qn:Coag",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "630-4",
+    "desc": "Bacteria identified:Prid:Pt:Urine:Nom:Culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "634-6",
+    "desc": "Bacteria identified:Prid:Pt:XXX:Nom:Aerobic culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "635-3",
+    "desc": "Bacteria identified:Prid:Pt:XXX:Nom:Anaerobic culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6443-6",
+    "desc": "Lactoferrin:PrThr:Pt:Stool:Ord:LA",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6460-0",
+    "desc": "Bacteria identified:Prid:Pt:Sputum:Nom:Culture",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "664-3",
+    "desc": "Microscopic observation:Prid:Pt:XXX:Nom:Gram stain",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6690-2",
+    "desc": "6690-2: Leukocytes:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "673-4",
+    "desc": "Ova & parasites identified:Prid:Pt:XXX:Nom:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6742-1",
+    "desc": "Erythrocyte morphology finding:Prid:Pt:Bld:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6768-6",
+    "desc": "6768-6: Alkaline phosphatase:CCnc:Pt:Ser/Plas:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6824-7",
+    "desc": "Color:Type:Pt:Body fld:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "6968-2",
+    "desc": "Proteinase 3 Ab:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "702-1",
+    "desc": "Anisocytosis:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "703-9",
+    "desc": "Basophilic stippling:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "704-7",
+    "desc": "704-7: Basophils:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "707-0",
+    "desc": "Basophils/100 leukocytes:NFr:Pt:Bld:Qn:Manual count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "711-2",
+    "desc": "711-2: Eosinophils:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "718-7",
+    "desc": "718-7: Hemoglobin:MCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "728-6",
+    "desc": "Hypochromia:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "731-0",
+    "desc": "731-0: Lymphocytes:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "738-5",
+    "desc": "Macrocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "741-9",
+    "desc": "Microcytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7425-2",
+    "desc": "House dust Hollister Stier Ab.IgE:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "742-7",
+    "desc": "742-7: Monocytes:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "751-8",
+    "desc": "751-8: Neutrophils:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "774-0",
+    "desc": "Ovalocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "777-3",
+    "desc": "777-3: Platelets:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7789-1",
+    "desc": "Acanthocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7790-9",
+    "desc": "Burr cells:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7791-7",
+    "desc": "Dacryocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7792-5",
+    "desc": "Dohle body:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7797-4",
+    "desc": "Rouleaux:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "779-9",
+    "desc": "Poikilocytosis:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "785-6",
+    "desc": "785-6: Erythrocyte mean corpuscular hemoglobin:EntMass:Pt:RBC:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "786-4",
+    "desc": "786-4: Erythrocyte mean corpuscular hemoglobin concentration:MCnc:Pt:RBC:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "787-2",
+    "desc": "787-2: Erythrocyte mean corpuscular volume:EntVol:Pt:RBC:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "788-0",
+    "desc": "788-0: Erythrocyte distribution width:Ratio:Pt:RBC:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7885-7",
+    "desc": "Epstein Barr virus capsid Ab.IgG:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7886-5",
+    "desc": "Epstein Barr virus capsid Ab.IgM:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "789-8",
+    "desc": "789-8: Erythrocytes:NCnc:Pt:Bld:Qn:Automated count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7909-5",
+    "desc": "Herpes simplex virus 1 Ab.IgG:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "7912-9",
+    "desc": "Herpes simplex virus 2 Ab.IgG:ACnc:Pt:Ser:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "792-2",
+    "desc": "Erythrocytes:NCnc:Pt:CSF:Qn:Manual count",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "800-3",
+    "desc": "Schistocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "802-9",
+    "desc": "Spherocytes:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "803-7",
+    "desc": "Toxic granules:PrThr:Pt:Bld:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "8061-4",
+    "desc": "Nuclear Ab:PrThr:Pt:Ser:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "8247-9",
+    "desc": "Mucus:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "8248-7",
+    "desc": "Spermatozoa:PrThr:Pt:Urine sed:Ord:Microscopy.light",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "882-1",
+    "desc": "ABO & Rh group:Type:Pt:Bld:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "883-9",
+    "desc": "ABO group:Type:Pt:Bld:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "890-4",
+    "desc": "Blood group antibody screen:PrThr:Pt:Ser/Plas:Ord",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "9335-1",
+    "desc": "Appearance:Aper:Pt:Body fld:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "9425-0",
+    "desc": "Acetone:MCnc:Pt:Bld:Qn",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "9796-4",
+    "desc": "9796-4: Color:Type:Pt:Calculus:Nom",
+    "source": "http://loinc.org"
+  },
+  {
+    "code": "9820-2",
+    "desc": "Cryptococcus sp Ag:Titr:Pt:Ser:Qn:LA",
+    "source": "http://loinc.org"
+  }
+]

@@ -1,0 +1,316 @@
+code	desc	source
+10333-3	Appearance:Aper:Pt:CSF:Nom	http://loinc.org
+10334-1	Cancer Ag 125:ACnc:Pt:Ser/Plas:Qn	http://loinc.org
+10335-8	Color:Type:Pt:CSF:Nom	http://loinc.org
+10378-8	Polychromasia:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+10380-4	Stomatocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+10381-2	Target cells:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+10535-3	Digoxin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+10834-0	Globulin:MCnc:Pt:Ser:Qn:Calculated	http://loinc.org
+10839-9	Troponin I.cardiac:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+11054-4	11054-4: Cholesterol.in LDL/Cholesterol.in HDL:MRto:Pt:Ser/Plas:Qn	http://loinc.org
+11277-1	11277-1: Epithelial cells.squamous:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF	http://loinc.org
+11572-5	Rheumatoid factor:ACnc:Pt:Ser/Plas:Qn	http://loinc.org
+11579-0	Thyrotropin:ACnc:Pt:Ser/Plas:Qn:Detection limit <= 0.05 mIU/L	http://loinc.org
+12187-1	Creatine kinase.MB/Creatine kinase.total:CFr:Pt:Ser/Plas:Qn:Electrophoresis	http://loinc.org
+12209-3	Eosinophils/100 leukocytes:NFr:Pt:Body fld:Qn:Manual count	http://loinc.org
+12227-5	12227-5: Leukocytes^^corrected for nucleated erythrocytes:NCnc:Pt:Bld:Qn	http://loinc.org
+12454-5	Urate crystals.amorphous:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+12967-6	Urea nitrogen:MCnc:24H:Urine:Qn	http://loinc.org
+13046-8	Lymphocytes.variant/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+1305-2	D Ag:PrThr:Pt:Bld:Ord	http://loinc.org
+13169-8	Interpretation:Imp:Pt:Ser/Plas:Nom:Immunoelectrophoresis	http://loinc.org
+13317-3	Staphylococcus aureus.methicillin resistant isolate:PrThr:Pt:XXX:Ord:Organism specific culture	http://loinc.org
+13457-7	13457-7: Cholesterol.in LDL:MCnc:Pt:Ser/Plas:Qn:Calculated	http://loinc.org
+13458-5	13458-5: Cholesterol.in VLDL:MCnc:Pt:Ser/Plas:Qn:Calculated	http://loinc.org
+13834-7	IgE.total:ACnc:Pt:Ser:Qn:RAST	http://loinc.org
+13941-0	Lymphocytes/100 leukocytes:NFr:Pt:Body fld:Qn:Manual count	http://loinc.org
+13950-1	Hepatitis A virus Ab.IgM:PrThr:Pt:Ser/Plas:Ord:IA	http://loinc.org
+13952-7	Hepatitis B virus core Ab:PrThr:Pt:Ser/Plas:Ord:IA	http://loinc.org
+13964-2	Methylmalonate:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+13990-7	Alpha 1 globulin/Protein.total:MFr:Pt:Urine:Qn:Electrophoresis	http://loinc.org
+14118-4	Lactate:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+14196-0	Reticulocytes:NCnc:Pt:Bld:Qn	http://loinc.org
+14314-9	Benzoylecgonine:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+14316-4	Benzodiazepines:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+14327-1	Epithelial cells.squamous:PrThr:Pt:Sputum:Ord:Microscopy.light	http://loinc.org
+14338-8	Prealbumin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+14627-4	14627-4: Bicarbonate:SCnc:Pt:BldV:Qn	http://loinc.org
+14957-5	Albumin:MCnc:Pt:Urine:Qn:Detection limit <= 20 mg/L	http://loinc.org
+14959-1	Albumin/Creatinine:MRto:Pt:Urine:Qn:Detection limit <= 20 mg/L	http://loinc.org
+14979-9	14979-9: Coagulation surface induced:Time:Pt:PPP:Qn:Coag	http://loinc.org
+15061-5	Erythropoietin:ACnc:Pt:Ser/Plas:Qn	http://loinc.org
+15152-2	Bilirubin.glucuronidated:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+16135-6	Beta 2 glycoprotein 1 Ab.IgG:ACnc:Pt:Ser:Qn	http://loinc.org
+16136-4	Beta 2 glycoprotein 1 Ab.IgM:ACnc:Pt:Ser:Qn	http://loinc.org
+16250-3	Codeine:MCnc:Pt:Urine:Qn:Confirm	http://loinc.org
+16251-1	Morphine:MCnc:Pt:Urine:Qn:Confirm	http://loinc.org
+16252-9	Hydrocodone:MCnc:Pt:Urine:Qn:Confirm	http://loinc.org
+1649-3	Calcitriol:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+16935-9	Hepatitis B virus surface Ab:ACnc:Pt:Ser:Qn	http://loinc.org
+16998-7	Hydromorphone:MCnc:Pt:Urine:Qn:Confirm	http://loinc.org
+1742-6	1742-6: Alanine aminotransferase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+1747-5	Albumin:MCnc:Pt:Body fld:Qn	http://loinc.org
+1752-5	1752-5: Albumin:MCnc:Pt:Synv fld:Qn	http://loinc.org
+1759-0	Albumin/Globulin:MRto:Pt:Ser/Plas:Qn	http://loinc.org
+1763-2	Aldosterone:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+17652-9	Streptococcus pneumoniae Ag:PrThr:Pt:XXX:Ord:LA	http://loinc.org
+17861-6	17861-6: Calcium:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+17864-0	Calcium.ionized:MCnc:Pt:Ser/Plas:Qn:ISE	http://loinc.org
+1795-4	Amylase:CCnc:Pt:Body fld:Qn	http://loinc.org
+1798-8	Amylase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+18262-6	18262-6: Cholesterol.in LDL:MCnc:Pt:Ser/Plas:Qn:Direct assay	http://loinc.org
+18282-4	Cannabinoids:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+18481-2	Streptococcus pyogenes Ag:PrThr:Pt:Thrt:Ord	http://loinc.org
+19075-1	Cells counted.total:Num:Pt:CSF:Qn	http://loinc.org
+19123-9	19123-9: Magnesium:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+19124-7	Magnesium:MCnc:Pt:Urine:Qn	http://loinc.org
+19161-9	Urobilinogen:ACnc:Pt:Urine:Qn:Test strip	http://loinc.org
+1920-8	1920-8: Aspartate aminotransferase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+1925-7	1925-7: Base excess:SCnc:Pt:BldA:Qn:Calculated	http://loinc.org
+19261-7	Amphetamines:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+19270-8	Barbiturates:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+1927-3	1927-3: Base excess:SCnc:Pt:BldV:Qn:Calculated	http://loinc.org
+19295-5	Opiates:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+19343-3	Amphetamine:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+1960-4	1960-4: Bicarbonate:SCnc:Pt:BldA:Qn	http://loinc.org
+19642-8	Oxycodone:PrThr:Pt:Urine:Ord:Screen	http://loinc.org
+1971-1	Bilirubin.non-glucuronidated:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+1975-2	1975-2: Bilirubin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+19764-0	Statement of adequacy:Imp:Pt:Cvx/Vag:Nom:Cyto stain	http://loinc.org
+1988-5	C reactive protein:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+1989-3	Calcidiol:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2019-8	2019-8: Carbon dioxide:PPres:Pt:BldA:Qn	http://loinc.org
+2021-4	2021-4: Carbon dioxide:PPres:Pt:BldV:Qn	http://loinc.org
+2028-9	2028-9: Carbon dioxide:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2039-6	Carcinoembryonic Ag:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+20407-3	20407-3: Nitrite:MCnc:Pt:Urine:Qn:Test strip	http://loinc.org
+20408-1	Leukocytes:NCnc:Pt:Urine:Qn:Test strip	http://loinc.org
+20409-9	Erythrocytes:NCnc:Pt:Urine:Qn:Test strip	http://loinc.org
+20454-5	20454-5: Protein:PrThr:Pt:Urine:Ord:Test strip	http://loinc.org
+20507-0	Reagin Ab:PrThr:Pt:Ser:Ord:RPR	http://loinc.org
+20578-1	Vancomycin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2064-4	Ceruloplasmin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2075-0	2075-0: Chloride:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2079-2	Chloride:SRat:24H:Urine:Qn	http://loinc.org
+2085-9	2085-9: Cholesterol.in HDL:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2091-7	2091-7: Cholesterol.in VLDL:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2093-3	2093-3: Cholesterol:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2112-1	Choriogonadotropin.beta subunit (pregnancy test):PrThr:Pt:Urine:Ord	http://loinc.org
+21260-5	Epstein Barr virus nuclear Ab:Titr:Pt:Ser:Qn:IF	http://loinc.org
+2132-9	Cobalamins:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2143-6	Cortisol:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+21525-1	Sodium:SCnc:24H:Urine:Qn	http://loinc.org
+2157-6	Creatine kinase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2160-0	2160-0: Creatinine:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2161-8	Creatinine:MCnc:Pt:Urine:Qn	http://loinc.org
+22327-1	Hepatitis C virus Ab:ACnc:Pt:Ser:Qn	http://loinc.org
+22763-7	Ammonia:MCnc:Pt:Plas:Qn	http://loinc.org
+2276-4	Ferritin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2284-8	Folate:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2324-2	Gamma glutamyl transferase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2334-1	Hemoglobin.gastrointestinal:PrThr:Pt:Gast fld:Ord	http://loinc.org
+2339-0	Glucose:MCnc:Pt:Bld:Qn	http://loinc.org
+2342-4	Glucose:MCnc:Pt:CSF:Qn	http://loinc.org
+2344-0	Glucose:MCnc:Pt:Body fld:Qn	http://loinc.org
+2345-7	2345-7: Glucose:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2349-9	2349-9: Glucose:PrThr:Pt:Urine:Ord	http://loinc.org
+2357-2	Glucose-6-Phosphate dehydrogenase:CCnc:Pt:RBC:Qn	http://loinc.org
+23860-0	23860-0: Erythrocytes:NCnc:Pt:Body fld:Qn:Automated count	http://loinc.org
+24108-3	Cancer Ag 19-9:ACnc:Pt:Ser/Plas:Qn	http://loinc.org
+24113-3	Hepatitis B virus core Ab.IgM:PrThr:Pt:Ser/Plas:Ord:IA	http://loinc.org
+2458-8	IgA:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2465-3	IgG:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2472-9	IgM:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2498-4	Iron:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2500-7	Iron binding capacity:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2501-5	Iron binding capacity.unsaturated:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2502-3	Iron saturation:MFr:Pt:Ser/Plas:Qn	http://loinc.org
+2514-8	2514-8: Ketones:PrThr:Pt:Urine:Ord:Test strip	http://loinc.org
+2518-9	Lactate:SCnc:Pt:BldA:Qn	http://loinc.org
+2524-7	Lactate:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2529-6	Lactate dehydrogenase:CCnc:Pt:Body fld:Qn	http://loinc.org
+2532-0	Lactate dehydrogenase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2571-8	2571-8: Triglyceride:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+26052-1	Epithelial cells.renal:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF	http://loinc.org
+26449-9	Eosinophils:NCnc:Pt:Bld:Qn	http://loinc.org
+26450-7	26450-7: Eosinophils/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+26478-8	26478-8: Lymphocytes/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+26485-3	26485-3: Monocytes/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+26487-9	Monocytes/100 leukocytes:NFr:Pt:Body fld:Qn	http://loinc.org
+26507-4	Neutrophils.band form:NCnc:Pt:Bld:Qn	http://loinc.org
+26508-2	Neutrophils.band form/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+26511-6	26511-6: Neutrophils/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+26513-2	Neutrophils/100 leukocytes:NFr:Pt:Body fld:Qn	http://loinc.org
+2692-2	Osmolality:Osmol:Pt:Ser/Plas:Qn	http://loinc.org
+2695-5	Osmolality:Osmol:Pt:Urine:Qn	http://loinc.org
+2703-7	2703-7: Oxygen:PPres:Pt:BldA:Qn	http://loinc.org
+2705-2	2705-2: Oxygen:PPres:Pt:BldV:Qn	http://loinc.org
+2708-6	Oxygen saturation:MFr:Pt:BldA:Qn	http://loinc.org
+27215-3	http://loinc.org	http://loinc.org
+2731-8	Parathyrin.intact:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+27340-9	27340-9: Cholesterol.in HDL:PrThr:Pt:Ser/Plas:Ord	http://loinc.org
+2744-1	2744-1: pH:LsCnc:Pt:BldA:Qn	http://loinc.org
+2746-6	2746-6: pH:LsCnc:Pt:BldV:Qn	http://loinc.org
+2748-2	pH:LsCnc:Pt:Body fld:Qn	http://loinc.org
+2777-1	Phosphate:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+27822-6	Protein S actual/Normal:RelTime:Pt:PPP:Qn:Coag	http://loinc.org
+2823-3	2823-3: Potassium:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2828-2	Potassium:SCnc:Pt:Urine:Qn	http://loinc.org
+28541-1	Metamyelocytes/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+28543-7	Basophils/100 leukocytes:NFr:Pt:Body fld:Qn	http://loinc.org
+2857-1	Prostate specific Ag:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+28642-7	28642-7: Oxygen saturation:MFr:Pt:BldCoA:Qn	http://loinc.org
+28643-5	28643-5: Oxygen saturation:MFr:Pt:BldCoV:Qn	http://loinc.org
+2880-3	Protein:MCnc:Pt:CSF:Qn	http://loinc.org
+2881-1	Protein:MCnc:Pt:Body fld:Qn	http://loinc.org
+2885-2	Protein:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+2889-4	Protein:MRat:24H:Urine:Qn	http://loinc.org
+2947-0	Sodium:SCnc:Pt:Bld:Qn	http://loinc.org
+2951-2	2951-2: Sodium:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+29615-2	Hepatitis B virus DNA:NCnc:Pt:Ser/Plas:Qn:Probe.amp.tar	http://loinc.org
+2965-2	2965-2: Specific gravity:Rden:Pt:Urine:Qn	http://loinc.org
+2986-8	Testosterone:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+30089-7	Transitional cells:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF	http://loinc.org
+30180-4	30180-4: Basophils/100 leukocytes:NFr:Pt:Bld:Qn	http://loinc.org
+3024-7	Thyroxine.free:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+3026-2	Thyroxine:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+30313-1	Hemoglobin:MCnc:Pt:BldA:Qn	http://loinc.org
+3034-6	Transferrin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+3040-3	Triacylglycerol lipase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+30405-5	Leukocytes:NCnc:Pt:Urine:Qn	http://loinc.org
+30436-0	Monocytes+Macrophages/100 leukocytes:NFr:Pt:CSF:Qn	http://loinc.org
+30437-8	Monocytes+Macrophages/100 leukocytes:NFr:Pt:Body fld:Qn	http://loinc.org
+3051-0	Triiodothyronine.free:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+3053-6	Triiodothyronine:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+3084-1	Urate:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+30934-4	Natriuretic peptide.B:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+3094-0	3094-0: Urea nitrogen:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+3097-3	3097-3: Urea nitrogen/Creatinine:MRto:Pt:Ser/Plas:Qn	http://loinc.org
+3174-0	Antithrombin:ACnc:Pt:PPP:Qn:Chromo	http://loinc.org
+3181-5	Cardiolipin Ab.IgG:ACnc:Pt:Ser:Qn:IA	http://loinc.org
+3182-3	Cardiolipin Ab.IgM:ACnc:Pt:Ser:Qn:IA	http://loinc.org
+3209-4	Coagulation factor VIII activity actual/Normal:RelTime:Pt:PPP:Qn:Coag	http://loinc.org
+32167-9	32167-9: Clarity:Type:Pt:Urine:Nom	http://loinc.org
+32356-8	Yeast:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+3255-7	Fibrinogen:MCnc:Pt:PPP:Qn:Coag	http://loinc.org
+32623-1	32623-1: Platelet mean volume:EntVol:Pt:Bld:Qn:Automated count	http://loinc.org
+32684-3	Heparin.low molecular weight:ACnc:Pt:PPP:Qn	http://loinc.org
+3273-0	Heparin.unfractionated:ACnc:Pt:PPP:Qn:Coag	http://loinc.org
+3274-8	Heparin.unfractionated:ACnc:Pt:PPP:Qn:Chromo	http://loinc.org
+3284-7	Lupus anticoagulant neutralization.platelet:Time:Pt:PPP:Qn:Coag	http://loinc.org
+3299-5	Acetaminophen:PrThr:Pt:Urine:Ord	http://loinc.org
+32998-7	Tissue transglutaminase Ab.IgG:ACnc:Pt:Ser:Qn	http://loinc.org
+33037-3	Anion gap:SCnc:Pt:Ser/Plas:Qn	http://loinc.org
+33249-4	Hyperchromia:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+33768-3	Leukocyte clumps:NCnc:Pt:Urine:Qn:Automated count	http://loinc.org
+33905-1	Trichomonas sp:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF	http://loinc.org
+33914-3	Glomerular filtration rate/1.73 sq M.predicted:ArVRat:Pt:Ser/Plas:Qn:Creatinine-based formula (MDRD)	http://loinc.org
+3397-7	Cocaine:PrThr:Pt:Urine:Ord	http://loinc.org
+3413-2	Buprenorphine:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+34661-9	Actin Ab.IgG:ACnc:Pt:Ser/Plas:Qn	http://loinc.org
+4024-6	Salicylates:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+40665-2	Reticulocytes:NCnc:Pt:Bld:Qn:Manual	http://loinc.org
+4092-3	Vancomycin^trough:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+43304-5	Chlamydia trachomatis rRNA:PrThr:Pt:XXX:Ord:Probe.amp.tar	http://loinc.org
+43396-1	43396-1: Cholesterol.non HDL:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+43874-7	Influenza virus A Ag:PrThr:Pt:Nph:Ord	http://loinc.org
+43895-2	Influenza virus B Ag:PrThr:Pt:Nph:Ord	http://loinc.org
+44812-6	Yeast.hyphae:PrThr:Pt:XXX:Ord:Wet preparation	http://loinc.org
+4485-9	Complement C3:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+4498-2	Complement C4:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+4537-7	Erythrocyte sedimentation rate:Vel:Pt:Bld:Qn:Westergren	http://loinc.org
+4542-7	Haptoglobin:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+4544-3	4544-3: Hematocrit:VFr:Pt:Bld:Qn:Automated count	http://loinc.org
+4548-4	Hemoglobin A1c/Hemoglobin.total:MFr:Pt:Bld:Qn	http://loinc.org
+46082-4	Influenza virus A Ag:PrThr:Pt:Nph:Ord:IA	http://loinc.org
+46083-2	Influenza virus B Ag:PrThr:Pt:Nph:Ord:IA	http://loinc.org
+48065-7	Fibrin D-dimer FEU:MCnc:Pt:PPP:Qn	http://loinc.org
+48642-3	48642-3: Glomerular filtration rate/1.73 sq M.predicted.non black:ArVRat:Pt:Ser/Plas:Qn:Creatinine-based formula (MDRD)	http://loinc.org
+48643-1	48643-1: Glomerular filtration rate/1.73 sq M.predicted.black:ArVRat:Pt:Ser/Plas:Qn:Creatinine-based formula (MDRD)	http://loinc.org
+50410-0	Coagulation dilute Russell viper venom induced/Coagulation dilute Russell viper venom induced.excess phospholipid:Ratio:Pt:PPP:Qn:Coag	http://loinc.org
+50595-8	Pathologist interpretation:Imp:Pt:XXX:Nom	http://loinc.org
+5124-3	Cytomegalovirus Ab.IgG:ACnc:Pt:Ser/Plas:Qn:IA	http://loinc.org
+5126-8	Cytomegalovirus Ab.IgM:ACnc:Pt:Ser:Qn:IA	http://loinc.org
+5130-0	DNA double strand Ab:ACnc:Pt:Ser:Qn	http://loinc.org
+5196-1	Hepatitis B virus surface Ag:PrThr:Pt:Ser/Plas:Ord:IA	http://loinc.org
+5403-1	Varicella zoster virus Ab.IgG:ACnc:Pt:Ser:Qn:IA	http://loinc.org
+547-0	Streptococcus.beta-hemolytic:PrThr:Pt:XXX:Ord:Organism specific culture	http://loinc.org
+5631-7	Copper:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+5644-0	Ethanol:PrThr:Pt:Urine:Ord	http://loinc.org
+5763-8	Zinc:MCnc:Pt:Ser/Plas:Qn	http://loinc.org
+5769-5	5769-5: Bacteria:Naric:Pt:Urine sed:Qn:Microscopy.light.HPF	http://loinc.org
+5770-3	5770-3: Bilirubin:PrThr:Pt:Urine:Ord:Test strip	http://loinc.org
+5774-5	Calcium oxalate crystals:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+5793-5	Granular casts:Naric:Pt:Urine sed:Qn:Microscopy.light.LPF	http://loinc.org
+5794-3	Hemoglobin:PrThr:Pt:Urine:Ord:Test strip	http://loinc.org
+5796-8	Hyaline casts:Naric:Pt:Urine sed:Qn:Microscopy.light.LPF	http://loinc.org
+5799-2	5799-2: Leukocyte esterase:PrThr:Pt:Urine:Ord:Test strip	http://loinc.org
+580-1	Fungus identified:Prid:Pt:XXX:Nom:Culture	http://loinc.org
+5803-2	5803-2: pH:LsCnc:Pt:Urine:Qn:Test strip	http://loinc.org
+5814-9	Triple phosphate crystals:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+5817-2	Urate crystals:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+5901-4	Coagulation tissue factor induced:Time:Pt:PPP^Control:Qn:Coag	http://loinc.org
+5902-2	5902-2: Coagulation tissue factor induced:Time:Pt:PPP:Qn:Coag	http://loinc.org
+5908-9	Platelets.giant:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+600-7	Bacteria identified:Prid:Pt:Bld:Nom:Culture	http://loinc.org
+6007-9	Protein C:ACnc:Pt:PPP:Qn:Coag	http://loinc.org
+6298-4	Potassium:SCnc:Pt:Bld:Qn	http://loinc.org
+6301-6	6301-6: Coagulation tissue factor induced.INR:RelTime:Pt:PPP:Qn:Coag	http://loinc.org
+6303-2	Coagulation dilute Russell viper venom induced:Time:Pt:PPP:Qn:Coag	http://loinc.org
+630-4	Bacteria identified:Prid:Pt:Urine:Nom:Culture	http://loinc.org
+634-6	Bacteria identified:Prid:Pt:XXX:Nom:Aerobic culture	http://loinc.org
+635-3	Bacteria identified:Prid:Pt:XXX:Nom:Anaerobic culture	http://loinc.org
+6443-6	Lactoferrin:PrThr:Pt:Stool:Ord:LA	http://loinc.org
+6460-0	Bacteria identified:Prid:Pt:Sputum:Nom:Culture	http://loinc.org
+664-3	Microscopic observation:Prid:Pt:XXX:Nom:Gram stain	http://loinc.org
+6690-2	6690-2: Leukocytes:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+673-4	Ova & parasites identified:Prid:Pt:XXX:Nom:Microscopy.light	http://loinc.org
+6742-1	Erythrocyte morphology finding:Prid:Pt:Bld:Nom	http://loinc.org
+6768-6	6768-6: Alkaline phosphatase:CCnc:Pt:Ser/Plas:Qn	http://loinc.org
+6824-7	Color:Type:Pt:Body fld:Nom	http://loinc.org
+6968-2	Proteinase 3 Ab:ACnc:Pt:Ser:Qn	http://loinc.org
+702-1	Anisocytosis:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+703-9	Basophilic stippling:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+704-7	704-7: Basophils:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+707-0	Basophils/100 leukocytes:NFr:Pt:Bld:Qn:Manual count	http://loinc.org
+711-2	711-2: Eosinophils:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+718-7	718-7: Hemoglobin:MCnc:Pt:Bld:Qn	http://loinc.org
+728-6	Hypochromia:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+731-0	731-0: Lymphocytes:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+738-5	Macrocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+741-9	Microcytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+7425-2	House dust Hollister Stier Ab.IgE:ACnc:Pt:Ser:Qn	http://loinc.org
+742-7	742-7: Monocytes:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+751-8	751-8: Neutrophils:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+774-0	Ovalocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+777-3	777-3: Platelets:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+7789-1	Acanthocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+7790-9	Burr cells:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+7791-7	Dacryocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+7792-5	Dohle body:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+7797-4	Rouleaux:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+779-9	Poikilocytosis:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+785-6	785-6: Erythrocyte mean corpuscular hemoglobin:EntMass:Pt:RBC:Qn:Automated count	http://loinc.org
+786-4	786-4: Erythrocyte mean corpuscular hemoglobin concentration:MCnc:Pt:RBC:Qn:Automated count	http://loinc.org
+787-2	787-2: Erythrocyte mean corpuscular volume:EntVol:Pt:RBC:Qn:Automated count	http://loinc.org
+788-0	788-0: Erythrocyte distribution width:Ratio:Pt:RBC:Qn:Automated count	http://loinc.org
+7885-7	Epstein Barr virus capsid Ab.IgG:ACnc:Pt:Ser:Qn	http://loinc.org
+7886-5	Epstein Barr virus capsid Ab.IgM:ACnc:Pt:Ser:Qn	http://loinc.org
+789-8	789-8: Erythrocytes:NCnc:Pt:Bld:Qn:Automated count	http://loinc.org
+7909-5	Herpes simplex virus 1 Ab.IgG:ACnc:Pt:Ser:Qn	http://loinc.org
+7912-9	Herpes simplex virus 2 Ab.IgG:ACnc:Pt:Ser:Qn	http://loinc.org
+792-2	Erythrocytes:NCnc:Pt:CSF:Qn:Manual count	http://loinc.org
+800-3	Schistocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+802-9	Spherocytes:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+803-7	Toxic granules:PrThr:Pt:Bld:Ord:Microscopy.light	http://loinc.org
+8061-4	Nuclear Ab:PrThr:Pt:Ser:Ord	http://loinc.org
+8247-9	Mucus:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+8248-7	Spermatozoa:PrThr:Pt:Urine sed:Ord:Microscopy.light	http://loinc.org
+882-1	ABO & Rh group:Type:Pt:Bld:Nom	http://loinc.org
+883-9	ABO group:Type:Pt:Bld:Nom	http://loinc.org
+890-4	Blood group antibody screen:PrThr:Pt:Ser/Plas:Ord	http://loinc.org
+9335-1	Appearance:Aper:Pt:Body fld:Nom	http://loinc.org
+9425-0	Acetone:MCnc:Pt:Bld:Qn	http://loinc.org
+9796-4	9796-4: Color:Type:Pt:Calculus:Nom	http://loinc.org
+9820-2	Cryptococcus sp Ag:Titr:Pt:Ser:Qn:LA	http://loinc.org
