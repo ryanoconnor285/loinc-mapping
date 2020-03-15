@@ -1,0 +1,3152 @@
+[
+    {
+        "loinc_code": "10333-3",
+        "name": "Appearance of Cerebral spinal fluid",
+        "display_name": "Appearance (CSF)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP14542-2",
+        "part_name": "Appearance",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10334-1",
+        "name": "Cancer Ag 125 [Units/volume] in Serum or Plasma",
+        "display_name": "Cancer Ag 125 Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14543-0",
+        "part_name": "Cancer Ag 125",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10335-8",
+        "name": "Color of Cerebral spinal fluid",
+        "display_name": "Color (CSF)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP28806-5",
+        "part_name": "Color",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10378-8",
+        "name": "Polychromasia [Presence] in Blood by Light microscopy",
+        "display_name": "Polychromasia LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14574-5",
+        "part_name": "Polychromasia",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10380-4",
+        "name": "Stomatocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Stomatocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14576-0",
+        "part_name": "Stomatocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10381-2",
+        "name": "Target cells [Presence] in Blood by Light microscopy",
+        "display_name": "Target cells LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14577-8",
+        "part_name": "Target cells",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10535-3",
+        "name": "Digoxin [Mass/volume] in Serum or Plasma",
+        "display_name": "Digoxin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14714-7",
+        "part_name": "Digoxin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10834-0",
+        "name": "Globulin [Mass/volume] in Serum by calculation",
+        "display_name": "Globulin Calc (S) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14885-5",
+        "part_name": "Globulin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "10839-9",
+        "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma",
+        "display_name": "Troponin I.cardiac [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14890-5",
+        "part_name": "Troponin I.cardiac",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "11054-4",
+        "name": "Cholesterol in LDL/Cholesterol in HDL [Mass Ratio] in Serum or Plasma",
+        "display_name": "Cholesterol in LDL/Cholesterol in HDL [Mass ratio]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP307369-1",
+        "part_name": "Cholesterol.in LDL/Cholesterol.in HDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "11277-1",
+        "name": "Epithelial cells.squamous [#/area] in Urine sediment by Microscopy high power field",
+        "display_name": "Epithelial cells.squamous LM.HPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP70260-2",
+        "part_name": "Epithelial cells.squamous",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "11572-5",
+        "name": "Rheumatoid factor [Units/volume] in Serum or Plasma",
+        "display_name": "Rheumatoid factor Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16738-4",
+        "part_name": "Rheumatoid factor",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "11579-0",
+        "name": "Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L",
+        "display_name": "TSH DL <= 0.05 mIU/L Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14487-0",
+        "part_name": "Thyrotropin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "12187-1",
+        "name": "Creatine kinase.MB/Creatine kinase.total in Serum or Plasma by Electrophoresis",
+        "display_name": "CK.MB Elph [Catalytic fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP307397-2",
+        "part_name": "Creatine kinase.MB/Creatine kinase.total",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "12209-3",
+        "name": "Eosinophils/100 leukocytes in Body fluid by Manual count",
+        "display_name": "Eosinophils/100 WBC Manual cnt (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP285961-1",
+        "part_name": "Eosinophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "12227-5",
+        "name": "Leukocytes [#/volume] corrected for nucleated erythrocytes in Blood",
+        "display_name": "WBC corrected for nucl RBC (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP308158-7",
+        "part_name": "Leukocytes^^corrected for nucleated erythrocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "12454-5",
+        "name": "Urate crystals amorphous [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Urate crystals amorphous LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP18118-7",
+        "part_name": "Urate crystals.amorphous",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "12967-6",
+        "name": "Urea nitrogen [Mass/volume] in 24 hour Urine",
+        "display_name": "Urea nitrogen (24H U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14492-0",
+        "part_name": "Urea nitrogen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13046-8",
+        "name": "Variant lymphocytes/100 leukocytes in Blood",
+        "display_name": "Variant lymphocytes/100 WBC (Bld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP286445-4",
+        "part_name": "Lymphocytes.variant/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1305-2",
+        "name": "D Ag [Presence] in Blood",
+        "display_name": "D Ag Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP37889-0",
+        "part_name": "D Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13169-8",
+        "name": "Immunoelectrophoresis for Serum or Plasma",
+        "display_name": "Interpretation IEP [Interp]",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP21032-5",
+        "part_name": "Interpretation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13317-3",
+        "name": "Methicillin resistant Staphylococcus aureus [Presence] in Unspecified specimen by Organism specific culture",
+        "display_name": "MRSA isol Org specific cx Ql (Unsp spec)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP18334-0",
+        "part_name": "Staphylococcus aureus.methicillin resistant isolate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13457-7",
+        "name": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation",
+        "display_name": "Cholesterol in LDL Calc [Mass/Vol]",
+        "range": "mg/dL:[0,130);",
+        "scale_type": "Qn",
+        "part_number": "LP15491-1",
+        "part_name": "Cholesterol.in LDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13458-5",
+        "name": "Cholesterol in VLDL [Mass/volume] in Serum or Plasma by calculation",
+        "display_name": "Cholesterol in VLDL Calc [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15492-9",
+        "part_name": "Cholesterol.in VLDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13834-7",
+        "name": "Total IgE [Units/volume] in Serum by Radioallergosorbent test (RAST)",
+        "display_name": "Total IgE RAST Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP29069-9",
+        "part_name": "IgE.total",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13941-0",
+        "name": "Lymphocytes/100 leukocytes in Body fluid by Manual count",
+        "display_name": "Lymphocytes/100 WBC Manual cnt (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP286448-8",
+        "part_name": "Lymphocytes/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13950-1",
+        "name": "Hepatitis A virus IgM Ab [Presence] in Serum or Plasma by Immunoassay",
+        "display_name": "HAV IgM IA Ql",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38318-9",
+        "part_name": "Hepatitis A virus Ab.IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13952-7",
+        "name": "Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay",
+        "display_name": "HBV core Ab IA Ql",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38323-9",
+        "part_name": "Hepatitis B virus core Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13964-2",
+        "name": "Methylmalonate [Moles/volume] in Serum or Plasma",
+        "display_name": "Methylmalonate [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15735-1",
+        "part_name": "Methylmalonate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "13990-7",
+        "name": "Alpha 1 globulin/Protein.total in Urine by Electrophoresis",
+        "display_name": "Alpha 1 globulin Elph (U) [Mass fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP284938-0",
+        "part_name": "Alpha 1 globulin/Protein.total",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14118-4",
+        "name": "Lactate [Mass/volume] in Serum or Plasma",
+        "display_name": "Lactate [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15686-6",
+        "part_name": "Lactate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14196-0",
+        "name": "Reticulocytes [#/volume] in Blood",
+        "display_name": "Reticulocytes (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16487-8",
+        "part_name": "Reticulocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14314-9",
+        "name": "Benzoylecgonine [Presence] in Urine by Screen method",
+        "display_name": "Benzoylecgonine Screen Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP16047-0",
+        "part_name": "Benzoylecgonine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14316-4",
+        "name": "Benzodiazepines [Presence] in Urine by Screen method",
+        "display_name": "Benzodiazepines Screen Ql (U)",
+        "range": ":neg;",
+        "scale_type": "Ord",
+        "part_number": "LP15014-1",
+        "part_name": "Benzodiazepines",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14327-1",
+        "name": "Epithelial cells.squamous [Presence] in Sputum by Light microscopy",
+        "display_name": "Epithelial cells.squamous LM Ql (Sput)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP70260-2",
+        "part_name": "Epithelial cells.squamous",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14338-8",
+        "name": "Prealbumin [Mass/volume] in Serum or Plasma",
+        "display_name": "Prealbumin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15837-5",
+        "part_name": "Prealbumin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14627-4",
+        "name": "Bicarbonate [Moles/volume] in Venous blood",
+        "display_name": "HCO3 (BldV) [Moles/Vol]",
+        "range": "mmol/L:[24,28];",
+        "scale_type": "Qn",
+        "part_number": "LP15441-6",
+        "part_name": "Bicarbonate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14957-5",
+        "name": "Microalbumin [Mass/volume] in Urine",
+        "display_name": "Albumin DL <= 20 mg/L (U) [Mass/Vol]",
+        "range": "mg/L:[0,20);",
+        "scale_type": "Qn",
+        "part_number": "LP6118-6",
+        "part_name": "Albumin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14959-1",
+        "name": "Microalbumin/Creatinine [Mass Ratio] in Urine",
+        "display_name": "Albumin/Creatinine DL <= 20 mg/L (U) [Mass ratio]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP284902-6",
+        "part_name": "Albumin/Creatinine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "14979-9",
+        "name": "aPTT in Platelet poor plasma by Coagulation assay",
+        "display_name": "aPTT Coag (PPP) [Time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15957-1",
+        "part_name": "Coagulation surface induced",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "15061-5",
+        "name": "Erythropoietin (EPO) [Units/volume] in Serum or Plasma",
+        "display_name": "Erythropoietin (EPO) Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15554-6",
+        "part_name": "Erythropoietin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "15152-2",
+        "name": "Bilirubin.conjugated [Mass/volume] in Serum or Plasma",
+        "display_name": "Bilirubin.conjugated [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15446-5",
+        "part_name": "Bilirubin.glucuronidated",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16135-6",
+        "name": "Beta 2 glycoprotein 1 IgG Ab [Units/volume] in Serum",
+        "display_name": "Beta 2 glycoprotein 1 IgG Qn (S)",
+        "range": "U/mL:[0,10.0);",
+        "scale_type": "Qn",
+        "part_number": "LP37266-1",
+        "part_name": "Beta 2 glycoprotein 1 Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16136-4",
+        "name": "Beta 2 glycoprotein 1 IgM Ab [Units/volume] in Serum",
+        "display_name": "Beta 2 glycoprotein 1 IgM Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37267-9",
+        "part_name": "Beta 2 glycoprotein 1 Ab.IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16250-3",
+        "name": "Codeine [Mass/volume] in Urine by Confirmatory method",
+        "display_name": "Codeine Confirm (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16093-4",
+        "part_name": "Codeine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16251-1",
+        "name": "Morphine [Mass/volume] in Urine by Confirmatory method",
+        "display_name": "Morphine Confirm (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15174-3",
+        "part_name": "Morphine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16252-9",
+        "name": "HYDROcodone [Mass/volume] in Urine by Confirmatory method",
+        "display_name": "HYDROcodone Confirm (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16161-9",
+        "part_name": "HYDROcodone",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1649-3",
+        "name": "Calcitriol [Mass/volume] in Serum or Plasma",
+        "display_name": "1,25-dihydroxyvitamin D3 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15277-4",
+        "part_name": "Calcitriol",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16935-9",
+        "name": "Hepatitis B virus surface Ab [Units/volume] in Serum",
+        "display_name": "HBV surface Ab Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38330-4",
+        "part_name": "Hepatitis B virus surface Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "16998-7",
+        "name": "HYDROmorphone [Mass/volume] in Urine by Confirmatory method",
+        "display_name": "HYDROmorphone Confirm (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16162-7",
+        "part_name": "HYDROmorphone",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1742-6",
+        "name": "Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "ALT [Catalytic activity/Vol]",
+        "range": "U/L:0-25;",
+        "scale_type": "Qn",
+        "part_number": "LP15333-5",
+        "part_name": "Alanine aminotransferase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1747-5",
+        "name": "Albumin [Mass/volume] in Body fluid",
+        "display_name": "Albumin (Body fld) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP6118-6",
+        "part_name": "Albumin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1752-5",
+        "name": "Albumin [Mass/volume] in Synovial fluid",
+        "display_name": "Albumin (Syn fld) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP6118-6",
+        "part_name": "Albumin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1759-0",
+        "name": "Albumin/Globulin [Mass Ratio] in Serum or Plasma",
+        "display_name": "Albumin/Globulin [Mass ratio]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP307328-7",
+        "part_name": "Albumin/Globulin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1763-2",
+        "name": "Aldosterone [Mass/volume] in Serum or Plasma",
+        "display_name": "Aldosterone [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14377-3",
+        "part_name": "Aldosterone",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "17652-9",
+        "name": "Streptococcus pneumoniae Ag [Presence] in Unspecified specimen by Latex agglutination",
+        "display_name": "S. pneumoniae Ag LA Ql (Unsp spec)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP39838-5",
+        "part_name": "Streptococcus pneumoniae Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "17861-6",
+        "name": "Calcium [Mass/volume] in Serum or Plasma",
+        "display_name": "Calcium [Mass/Vol]",
+        "range": "mg/dL:[9,10.5];",
+        "scale_type": "Qn",
+        "part_number": "LP15257-6",
+        "part_name": "Calcium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "17864-0",
+        "name": "Calcium.ionized [Mass/volume] in Serum or Plasma by Ion-selective membrane electrode (ISE)",
+        "display_name": "Calcium.ionized ISE [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15458-0",
+        "part_name": "Calcium.ionized",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1795-4",
+        "name": "Amylase [Enzymatic activity/volume] in Body fluid",
+        "display_name": "Amylase (Body fld) [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15355-8",
+        "part_name": "Amylase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1798-8",
+        "name": "Amylase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "Amylase [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15355-8",
+        "part_name": "Amylase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "18262-6",
+        "name": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",
+        "display_name": "Cholesterol in LDL Direct assay [Mass/Vol]",
+        "range": "mg/dL;[0,130);",
+        "scale_type": "Qn",
+        "part_number": "LP15491-1",
+        "part_name": "Cholesterol.in LDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "18282-4",
+        "name": "Cannabinoids [Presence] in Urine by Screen method",
+        "display_name": "Cannabinoids Screen Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP16058-7",
+        "part_name": "Cannabinoids",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "18481-2",
+        "name": "Streptococcus pyogenes Ag [Presence] in Throat",
+        "display_name": "S. pyogenes Ag Ql (Throat)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP39917-7",
+        "part_name": "Streptococcus pyogenes Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19075-1",
+        "name": "Cells Counted Total [#] in Cerebral spinal fluid",
+        "display_name": "Cells Counted Total (CSF) [#]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP29015-2",
+        "part_name": "Cells counted.total",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19123-9",
+        "name": "Magnesium [Mass/volume] in Serum or Plasma",
+        "display_name": "Magnesium [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14343-5",
+        "part_name": "Magnesium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19124-7",
+        "name": "Magnesium [Mass/volume] in Urine",
+        "display_name": "Magnesium (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14343-5",
+        "part_name": "Magnesium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19161-9",
+        "name": "Urobilinogen [Units/volume] in Urine by Test strip",
+        "display_name": "Urobilinogen Test strip Qn (U)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15942-3",
+        "part_name": "Urobilinogen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1920-8",
+        "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "AST [Catalytic activity/Vol]",
+        "range": "U/L:[0,25];",
+        "scale_type": "Qn",
+        "part_number": "LP15426-7",
+        "part_name": "Aspartate aminotransferase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1925-7",
+        "name": "Base excess in Arterial blood by calculation",
+        "display_name": "Base excess Calc (BldA) [Moles/Vol]",
+        "range": "mmol.L:[-2,+2];",
+        "scale_type": "Qn",
+        "part_number": "LP15429-1",
+        "part_name": "Base excess",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19261-7",
+        "name": "Amphetamines [Presence] in Urine by Screen method",
+        "display_name": "Amphetamines Screen Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP16034-8",
+        "part_name": "Amphetamines",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19270-8",
+        "name": "Barbiturates [Presence] in Urine by Screen method",
+        "display_name": "Barbiturates Screen Ql (U)",
+        "range": ":neg;",
+        "scale_type": "Ord",
+        "part_number": "LP14546-3",
+        "part_name": "Barbiturates",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1927-3",
+        "name": "Base excess in Venous blood by calculation",
+        "display_name": "Base excess Calc (BldV) [Moles/Vol]",
+        "range": "mmol.L:[-5,+5]:",
+        "scale_type": "Qn",
+        "part_number": "LP15429-1",
+        "part_name": "Base excess",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19295-5",
+        "name": "Opiates [Presence] in Urine by Screen method",
+        "display_name": "Opiates Screen Ql (U)",
+        "range": ":neg;",
+        "scale_type": "Ord",
+        "part_number": "LP14565-3",
+        "part_name": "Opiates",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19343-3",
+        "name": "Amphetamine [Presence] in Urine by Screen method",
+        "display_name": "Amphetamine Screen Ql (U)",
+        "range": ":neg;",
+        "scale_type": "Ord",
+        "part_number": "LP18868-7",
+        "part_name": "Amphetamine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1960-4",
+        "name": "Bicarbonate [Moles/volume] in Arterial blood",
+        "display_name": "HCO3 (BldA) [Moles/Vol]",
+        "range": "mmol/L:[21,31];",
+        "scale_type": "Qn",
+        "part_number": "LP15441-6",
+        "part_name": "Bicarbonate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19642-8",
+        "name": "oxyCODONE [Presence] in Urine by Screen method",
+        "display_name": "oxyCODONE Screen Ql (U)",
+        "range": ":neg;",
+        "scale_type": "Ord",
+        "part_number": "LP15003-4",
+        "part_name": "oxyCODONE",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1971-1",
+        "name": "Bilirubin.indirect [Mass/volume] in Serum or Plasma",
+        "display_name": "Bilirubin.indirect [Mass/Vol]",
+        "range": "mg/dL:[0.2,0.7];",
+        "scale_type": "Qn",
+        "part_number": "LP15449-9",
+        "part_name": "Bilirubin.non-glucuronidated",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1975-2",
+        "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
+        "display_name": "Bilirubin [Mass/Vol]",
+        "range": "mg/dL:[0.3,1.0];",
+        "scale_type": "Qn",
+        "part_number": "LP15448-1",
+        "part_name": "Bilirubin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "19764-0",
+        "name": "Statement of adequacy [Interpretation] of Cervical or vaginal smear or scraping by Cyto stain",
+        "display_name": "Statement of adequacy Cyto stain (Cvx/Vag) [Interp]",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP19430-5",
+        "part_name": "Statement of adequacy",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1988-5",
+        "name": "C reactive protein [Mass/volume] in Serum or Plasma",
+        "display_name": "CRP [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15023-2",
+        "part_name": "C reactive protein",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "1989-3",
+        "name": "Calcidiol [Mass/volume] in Serum or Plasma",
+        "display_name": "25-hydroxyvitamin D3 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15455-6",
+        "part_name": "Calcidiol",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2019-8",
+        "name": "Carbon dioxide [Partial pressure] in Arterial blood",
+        "display_name": "CO2 (BldA) [Partial pressure]",
+        "range": "mm[Hg]:[35,45];",
+        "scale_type": "Qn",
+        "part_number": "LP15150-3",
+        "part_name": "Carbon dioxide",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2021-4",
+        "name": "Carbon dioxide [Partial pressure] in Venous blood",
+        "display_name": "CO2 (BldV) [Partial pressure]",
+        "range": "mm[Hg]:[41,51];",
+        "scale_type": "Qn",
+        "part_number": "LP15150-3",
+        "part_name": "Carbon dioxide",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2028-9",
+        "name": "Carbon dioxide, total [Moles/volume] in Serum or Plasma",
+        "display_name": "CO2 [Moles/Vol]",
+        "range": "mmol/L:[21,30];",
+        "scale_type": "Qn",
+        "part_number": "LP15150-3",
+        "part_name": "Carbon dioxide",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2039-6",
+        "name": "Carcinoembryonic Ag [Mass/volume] in Serum or Plasma",
+        "display_name": "Carcinoembryonic Ag [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP28643-2",
+        "part_name": "Carcinoembryonic Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "20407-3",
+        "name": "Nitrite [Mass/volume] in Urine by Test strip",
+        "display_name": "Nitrite Test strip (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14270-0",
+        "part_name": "Nitrite",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "20408-1",
+        "name": "Leukocytes [#/volume] in Urine by Test strip",
+        "display_name": "WBC Test strip (U) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14419-3",
+        "part_name": "Leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "20409-9",
+        "name": "Erythrocytes [#/volume] in Urine by Test strip",
+        "display_name": "RBC Test strip (U) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14304-7",
+        "part_name": "Erythrocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "20454-5",
+        "name": "Protein [Presence] in Urine by Test strip",
+        "display_name": "Protein Test strip Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15838-3",
+        "part_name": "Protein",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "20507-0",
+        "name": "Reagin Ab [Presence] in Serum by RPR",
+        "display_name": "Reagin Ab RPR Ql (S)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP39544-9",
+        "part_name": "Reagin Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "20578-1",
+        "name": "Vancomycin [Mass/volume] in Serum or Plasma",
+        "display_name": "Vancomycin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16306-0",
+        "part_name": "Vancomycin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2064-4",
+        "name": "Ceruloplasmin [Mass/volume] in Serum or Plasma",
+        "display_name": "Ceruloplasmin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15479-6",
+        "part_name": "Ceruloplasmin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2075-0",
+        "name": "Chloride [Moles/volume] in Serum or Plasma",
+        "display_name": "Chloride [Moles/Vol]",
+        "range": "mmol/L:[98,106];",
+        "scale_type": "Qn",
+        "part_number": "LP15483-8",
+        "part_name": "Chloride",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2079-2",
+        "name": "Chloride [Moles/time] in 24 hour Urine",
+        "display_name": "Chloride (24H U) [Moles/Time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15483-8",
+        "part_name": "Chloride",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2085-9",
+        "name": "Cholesterol in HDL [Mass/volume] in Serum or Plasma",
+        "display_name": "Cholesterol in HDL [Mass/Vol]",
+        "range": "mg/dL:[40,inf];",
+        "scale_type": "Qn",
+        "part_number": "LP15489-5",
+        "part_name": "Cholesterol.in HDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2091-7",
+        "name": "Cholesterol in VLDL [Mass/volume] in Serum or Plasma",
+        "display_name": "Cholesterol in VLDL [Mass/Vol]",
+        "range": "mg/dL:[0,30);",
+        "scale_type": "Qn",
+        "part_number": "LP15492-9",
+        "part_name": "Cholesterol.in VLDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2093-3",
+        "name": "Cholesterol [Mass/volume] in Serum or Plasma",
+        "display_name": "Cholesterol [Mass/Vol]",
+        "range": "mg/dL:[0,200);",
+        "scale_type": "Qn",
+        "part_number": "LP15493-7",
+        "part_name": "Cholesterol",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2112-1",
+        "name": "Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Urine",
+        "display_name": "Beta HCG (pregnancy test) Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP104998-2",
+        "part_name": "Choriogonadotropin.beta subunit (pregnancy test)",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "21260-5",
+        "name": "Epstein Barr virus nuclear Ab [Titer] in Serum by Immunofluorescence",
+        "display_name": "EBV nuclear Ab IF (S) [Titer]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38074-8",
+        "part_name": "Epstein Barr virus nuclear Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2132-9",
+        "name": "Cobalamin (Vitamin B12) [Mass/volume] in Serum or Plasma",
+        "display_name": "Cobalamin (Vitamin B12) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15505-8",
+        "part_name": "Cobalamins",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2143-6",
+        "name": "Cortisol [Mass/volume] in Serum or Plasma",
+        "display_name": "Cortisol [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14161-1",
+        "part_name": "Cortisol",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "21525-1",
+        "name": "Sodium [Moles/volume] in 24 hour Urine",
+        "display_name": "Sodium (24H U) [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15099-2",
+        "part_name": "Sodium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2157-6",
+        "name": "Creatine kinase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "CK [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15510-8",
+        "part_name": "Creatine kinase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2160-0",
+        "name": "Creatinine [Mass/volume] in Serum or Plasma",
+        "display_name": "Creatinine [Mass/Vol]",
+        "range": "mg/dL:[0,1.5);",
+        "scale_type": "Qn",
+        "part_number": "LP14355-9",
+        "part_name": "Creatinine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2161-8",
+        "name": "Creatinine [Mass/volume] in Urine",
+        "display_name": "Creatinine (U) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14355-9",
+        "part_name": "Creatinine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "22327-1",
+        "name": "Hepatitis C virus Ab [Units/volume] in Serum",
+        "display_name": "HCV Ab Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38332-0",
+        "part_name": "Hepatitis C virus Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "22763-7",
+        "name": "Ammonia [Mass/volume] in Plasma",
+        "display_name": "Ammonia (P) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14071-2",
+        "part_name": "Ammonia",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2276-4",
+        "name": "Ferritin [Mass/volume] in Serum or Plasma",
+        "display_name": "Ferritin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15568-6",
+        "part_name": "Ferritin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2284-8",
+        "name": "Folate [Mass/volume] in Serum or Plasma",
+        "display_name": "Folate [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15575-1",
+        "part_name": "Folate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2324-2",
+        "name": "Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "Gamma glutamyl transferase [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15590-0",
+        "part_name": "Gamma glutamyl transferase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2334-1",
+        "name": "Hemoglobin.gastrointestinal [Presence] in Gastric fluid",
+        "display_name": "Hemoglobin.gastrointestinal Ql (Gast fld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15597-5",
+        "part_name": "Hemoglobin.gastrointestinal",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2339-0",
+        "name": "Glucose [Mass/volume] in Blood",
+        "display_name": "Glucose (Bld) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14635-4",
+        "part_name": "Glucose",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2342-4",
+        "name": "Glucose [Mass/volume] in Cerebral spinal fluid",
+        "display_name": "Glucose (CSF) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14635-4",
+        "part_name": "Glucose",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2344-0",
+        "name": "Glucose [Mass/volume] in Body fluid",
+        "display_name": "Glucose (Body fld) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14635-4",
+        "part_name": "Glucose",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2345-7",
+        "name": "Glucose [Mass/volume] in Serum or Plasma",
+        "display_name": "Glucose [Mass/Vol]",
+        "range": "mg/dL:[74,106];",
+        "scale_type": "Qn",
+        "part_number": "LP14635-4",
+        "part_name": "Glucose",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2349-9",
+        "name": "Glucose [Presence] in Urine",
+        "display_name": "Glucose Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14635-4",
+        "part_name": "Glucose",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2357-2",
+        "name": "Glucose-6-Phosphate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells",
+        "display_name": "G6PD (RBC) [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15601-5",
+        "part_name": "Glucose-6-Phosphate dehydrogenase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "23860-0",
+        "name": "Erythrocytes [#/volume] in Body fluid by Automated count",
+        "display_name": "RBC Auto (Body fld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14304-7",
+        "part_name": "Erythrocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "24108-3",
+        "name": "Cancer Ag 19-9 [Units/volume] in Serum or Plasma",
+        "display_name": "Cancer Ag 19-9 Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14040-7",
+        "part_name": "Cancer Ag 19-9",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "24113-3",
+        "name": "Hepatitis B virus core IgM Ab [Presence] in Serum or Plasma by Immunoassay",
+        "display_name": "HBV core IgM IA Ql",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38325-4",
+        "part_name": "Hepatitis B virus core Ab.IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2458-8",
+        "name": "IgA [Mass/volume] in Serum or Plasma",
+        "display_name": "IgA [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14669-3",
+        "part_name": "IgA",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2465-3",
+        "name": "IgG [Mass/volume] in Serum or Plasma",
+        "display_name": "IgG [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14672-7",
+        "part_name": "IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2472-9",
+        "name": "IgM [Mass/volume] in Serum or Plasma",
+        "display_name": "IgM [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14674-3",
+        "part_name": "IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2498-4",
+        "name": "Iron [Mass/volume] in Serum or Plasma",
+        "display_name": "Iron [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15677-5",
+        "part_name": "Iron",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2500-7",
+        "name": "Iron binding capacity [Mass/volume] in Serum or Plasma",
+        "display_name": "Iron binding capacity [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15678-3",
+        "part_name": "Iron binding capacity",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2501-5",
+        "name": "Iron binding capacity.unsaturated [Mass/volume] in Serum or Plasma",
+        "display_name": "Iron binding capacity.unsaturated [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15679-1",
+        "part_name": "Iron binding capacity.unsaturated",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2502-3",
+        "name": "Iron saturation [Mass Fraction] in Serum or Plasma",
+        "display_name": "Iron saturation [Mass fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP32756-6",
+        "part_name": "Iron saturation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2514-8",
+        "name": "Ketones [Presence] in Urine by Test strip",
+        "display_name": "Ketones Test strip Ql (U)",
+        "range": ":neg;",
+        "scale_type": "Ord",
+        "part_number": "LP15683-3",
+        "part_name": "Ketones",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2518-9",
+        "name": "Lactate [Moles/volume] in Arterial blood",
+        "display_name": "Lactate (BldA) [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15686-6",
+        "part_name": "Lactate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2524-7",
+        "name": "Lactate [Moles/volume] in Serum or Plasma",
+        "display_name": "Lactate [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15686-6",
+        "part_name": "Lactate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2529-6",
+        "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid",
+        "display_name": "LDH (Body fld) [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15033-1",
+        "part_name": "Lactate dehydrogenase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2532-0",
+        "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "LDH [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15033-1",
+        "part_name": "Lactate dehydrogenase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2571-8",
+        "name": "Triglyceride [Mass/volume] in Serum or Plasma",
+        "display_name": "Triglyceride [Mass/Vol]",
+        "range": "mg/dL:[0,150);",
+        "scale_type": "Qn",
+        "part_number": "LP15275-8",
+        "part_name": "Triglyceride",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26052-1",
+        "name": "Epithelial cells.renal [#/area] in Urine sediment by Microscopy high power field",
+        "display_name": "Epithelial cells.renal LM.HPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP18394-4",
+        "part_name": "Epithelial cells.renal",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26449-9",
+        "name": "Eosinophils [#/volume] in Blood",
+        "display_name": "Eosinophils (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14539-8",
+        "part_name": "Eosinophils",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26450-7",
+        "name": "Eosinophils/100 leukocytes in Blood",
+        "display_name": "Eosinophils/100 WBC (Bld)",
+        "range": "%:[0,2];",
+        "scale_type": "Qn",
+        "part_number": "LP285961-1",
+        "part_name": "Eosinophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26478-8",
+        "name": "Lymphocytes/100 leukocytes in Blood",
+        "display_name": "Lymphocytes/100 WBC (Bld)",
+        "range": "%:[24,40];",
+        "scale_type": "Qn",
+        "part_number": "LP286448-8",
+        "part_name": "Lymphocytes/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26485-3",
+        "name": "Monocytes/100 leukocytes in Blood",
+        "display_name": "Monocytes/100 WBC (Bld)",
+        "range": "%:[4,9];",
+        "scale_type": "Qn",
+        "part_number": "LP286557-6",
+        "part_name": "Monocytes/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26487-9",
+        "name": "Monocytes/100 leukocytes in Body fluid",
+        "display_name": "Monocytes/100 WBC (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP286557-6",
+        "part_name": "Monocytes/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26507-4",
+        "name": "Band form neutrophils [#/volume] in Blood",
+        "display_name": "Band form neutrophils (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15070-3",
+        "part_name": "Neutrophils.band form",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26508-2",
+        "name": "Band form neutrophils/100 leukocytes in Blood",
+        "display_name": "Band form neutrophils/100 WBC (Bld)",
+        "range": "%:[0,5);",
+        "scale_type": "Qn",
+        "part_number": "LP286644-2",
+        "part_name": "Neutrophils.band form/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26511-6",
+        "name": "Neutrophils/100 leukocytes in Blood",
+        "display_name": "Neutrophils/100 WBC (Bld)",
+        "range": "%:[47,63];",
+        "scale_type": "Qn",
+        "part_number": "LP286653-3",
+        "part_name": "Neutrophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "26513-2",
+        "name": "Neutrophils/100 leukocytes in Body fluid",
+        "display_name": "Neutrophils/100 WBC (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP286653-3",
+        "part_name": "Neutrophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2692-2",
+        "name": "Osmolality of Serum or Plasma",
+        "display_name": "Osmolality [Osmolality]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15272-5",
+        "part_name": "Osmolality",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2695-5",
+        "name": "Osmolality of Urine",
+        "display_name": "Osmolality (U) [Osmolality]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15272-5",
+        "part_name": "Osmolality",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2703-7",
+        "name": "Oxygen [Partial pressure] in Arterial blood",
+        "display_name": "Oxygen (BldA) [Partial pressure]",
+        "range": "mm[Hg]:[80,100];",
+        "scale_type": "Qn",
+        "part_number": "LP14536-4",
+        "part_name": "Oxygen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2705-2",
+        "name": "Oxygen [Partial pressure] in Venous blood",
+        "display_name": "Oxygen (BldV) [Partial pressure]",
+        "range": "mm[Hg]:[25,40]:",
+        "scale_type": "Qn",
+        "part_number": "LP14536-4",
+        "part_name": "Oxygen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2708-6",
+        "name": "Oxygen saturation in Arterial blood",
+        "display_name": "SaO2% (BldA) [Mass fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP21258-6",
+        "part_name": "Oxygen saturation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "27215-3",
+        "name": "Deprecated Mitochondria M2 IgG Ab [Units/volume] in Serum",
+        "display_name": "Mitochondria M2 IgG Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP39024-2",
+        "part_name": "Mitochondria M2 Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2731-8",
+        "name": "Parathyrin.intact [Mass/volume] in Serum or Plasma",
+        "display_name": "Parathyrin.intact [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15778-1",
+        "part_name": "Parathyrin.intact",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "27340-9",
+        "name": "Cholesterol in HDL [Presence] in Serum or Plasma",
+        "display_name": "Cholesterol in HDL Ql",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15489-5",
+        "part_name": "Cholesterol.in HDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2744-1",
+        "name": "pH of Arterial blood",
+        "display_name": "pH (BldA)",
+        "range": ":[7.35,7.45];",
+        "scale_type": "Qn",
+        "part_number": "LP14752-7",
+        "part_name": "pH",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2746-6",
+        "name": "pH of Venous blood",
+        "display_name": "pH (BldV)",
+        "range": ":[7.32,7.42];",
+        "scale_type": "Qn",
+        "part_number": "LP14752-7",
+        "part_name": "pH",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2748-2",
+        "name": "pH of Body fluid",
+        "display_name": "pH (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14752-7",
+        "part_name": "pH",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2777-1",
+        "name": "Phosphate [Mass/volume] in Serum or Plasma",
+        "display_name": "Phosphate [Mass/Vol]",
+        "range": "mg/dL:[2.5,4.5];",
+        "scale_type": "Qn",
+        "part_number": "LP14912-7",
+        "part_name": "Phosphate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "27822-6",
+        "name": "Protein S actual/normal in Platelet poor plasma by Coagulation assay",
+        "display_name": "Protein S actual/normal Coag (PPP) [Relative time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP174081-2",
+        "part_name": "Protein S actual/Normal",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2823-3",
+        "name": "Potassium [Moles/volume] in Serum or Plasma",
+        "display_name": "Potassium [Moles/Vol]",
+        "range": "mmol/L:[3.5,5.0];",
+        "scale_type": "Qn",
+        "part_number": "LP15098-4",
+        "part_name": "Potassium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2828-2",
+        "name": "Potassium [Moles/volume] in Urine",
+        "display_name": "Potassium (U) [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15098-4",
+        "part_name": "Potassium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "28541-1",
+        "name": "Metamyelocytes/100 leukocytes in Blood",
+        "display_name": "Metamyelocytes/100 WBC (Bld)",
+        "range": "%:[0,1);",
+        "scale_type": "Qn",
+        "part_number": "LP286503-0",
+        "part_name": "Metamyelocytes/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "28543-7",
+        "name": "Basophils/100 leukocytes in Body fluid",
+        "display_name": "Basophils/100 WBC (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP285063-6",
+        "part_name": "Basophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2857-1",
+        "name": "Prostate specific Ag [Mass/volume] in Serum or Plasma",
+        "display_name": "Prostate specific Ag [Mass/Vol]",
+        "range": "ng/mL:[0,4.0];",
+        "scale_type": "Qn",
+        "part_number": "LP18193-0",
+        "part_name": "Prostate specific Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "28642-7",
+        "name": "Oxygen saturation in Arterial cord blood",
+        "display_name": "SaO2% (BldCoA) [Mass fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP21258-6",
+        "part_name": "Oxygen saturation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "28643-5",
+        "name": "Oxygen saturation in Venous cord blood",
+        "display_name": "SaO2% (BldCoV) [Mass fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP21258-6",
+        "part_name": "Oxygen saturation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2880-3",
+        "name": "Protein [Mass/volume] in Cerebral spinal fluid",
+        "display_name": "Protein (CSF) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15838-3",
+        "part_name": "Protein",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2881-1",
+        "name": "Protein [Mass/volume] in Body fluid",
+        "display_name": "Protein (Body fld) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15838-3",
+        "part_name": "Protein",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2885-2",
+        "name": "Protein [Mass/volume] in Serum or Plasma",
+        "display_name": "Protein [Mass/Vol]",
+        "range": "g/dL:[5.5,8.0];",
+        "scale_type": "Qn",
+        "part_number": "LP15838-3",
+        "part_name": "Protein",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2889-4",
+        "name": "Protein [Mass/time] in 24 hour Urine",
+        "display_name": "Protein (24H U) [Mass/Time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15838-3",
+        "part_name": "Protein",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2947-0",
+        "name": "Sodium [Moles/volume] in Blood",
+        "display_name": "Sodium (Bld) [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15099-2",
+        "part_name": "Sodium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2951-2",
+        "name": "Sodium [Moles/volume] in Serum or Plasma",
+        "display_name": "Sodium [Moles/Vol]",
+        "range": "mmol/L:[136,145];",
+        "scale_type": "Qn",
+        "part_number": "LP15099-2",
+        "part_name": "Sodium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "29615-2",
+        "name": "Hepatitis B virus DNA [#/volume] (viral load) in Serum or Plasma by NAA with probe detection",
+        "display_name": "HBV DNA NAA+probe [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38320-5",
+        "part_name": "Hepatitis B virus DNA",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2965-2",
+        "name": "Specific gravity of Urine",
+        "display_name": "Specific gravity (U) [Rel density]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15865-6",
+        "part_name": "Specific gravity",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "2986-8",
+        "name": "Testosterone [Mass/volume] in Serum or Plasma",
+        "display_name": "Testosterone [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14045-6",
+        "part_name": "Testosterone",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30089-7",
+        "name": "Transitional cells [#/area] in Urine sediment by Microscopy high power field",
+        "display_name": "Transitional cells LM.HPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP17771-4",
+        "part_name": "Transitional cells",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30180-4",
+        "name": "Basophils/100 leukocytes in Blood",
+        "display_name": "Basophils/100 WBC (Bld)",
+        "range": "%:[0,2];",
+        "scale_type": "Qn",
+        "part_number": "LP285063-6",
+        "part_name": "Basophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3024-7",
+        "name": "Thyroxine (T4) free [Mass/volume] in Serum or Plasma",
+        "display_name": "Free T4 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP29119-2",
+        "part_name": "Thyroxine.free",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3026-2",
+        "name": "Thyroxine (T4) [Mass/volume] in Serum or Plasma",
+        "display_name": "T4 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15900-1",
+        "part_name": "Thyroxine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30313-1",
+        "name": "Hemoglobin [Mass/volume] in Arterial blood",
+        "display_name": "Hemoglobin (BldA) [Mass/Vol]",
+        "range": "g/dL:[12.1,17.0];",
+        "scale_type": "Qn",
+        "part_number": "LP14449-0",
+        "part_name": "Hemoglobin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3034-6",
+        "name": "Transferrin [Mass/volume] in Serum or Plasma",
+        "display_name": "Transferrin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15907-6",
+        "part_name": "Transferrin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3040-3",
+        "name": "Lipase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "Lipase [Catalytic activity/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14915-0",
+        "part_name": "Triacylglycerol lipase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30405-5",
+        "name": "Leukocytes [#/volume] in Urine",
+        "display_name": "WBC (U) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14419-3",
+        "part_name": "Leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30436-0",
+        "name": "Monocytes+Macrophages/100 leukocytes in Cerebral spinal fluid",
+        "display_name": "Monocytes+Macrophages/100 WBC (CSF)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP286560-0",
+        "part_name": "Monocytes+Macrophages/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30437-8",
+        "name": "Monocytes+Macrophages/100 leukocytes in Body fluid",
+        "display_name": "Monocytes+Macrophages/100 WBC (Body fld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP286560-0",
+        "part_name": "Monocytes+Macrophages/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3051-0",
+        "name": "Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma",
+        "display_name": "Free T3 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP29126-7",
+        "part_name": "Triiodothyronine.free",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3053-6",
+        "name": "Triiodothyronine (T3) [Mass/volume] in Serum or Plasma",
+        "display_name": "T3 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15922-5",
+        "part_name": "Triiodothyronine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3084-1",
+        "name": "Urate [Mass/volume] in Serum or Plasma",
+        "display_name": "Urate [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15935-7",
+        "part_name": "Urate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "30934-4",
+        "name": "Natriuretic peptide B [Mass/volume] in Serum or Plasma",
+        "display_name": "Natriuretic peptide B [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP28609-3",
+        "part_name": "Natriuretic peptide.B",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3094-0",
+        "name": "Urea nitrogen [Mass/volume] in Serum or Plasma",
+        "display_name": "Urea nitrogen [Mass/Vol]",
+        "range": "mg/mL:[10,20];",
+        "scale_type": "Qn",
+        "part_number": "LP14492-0",
+        "part_name": "Urea nitrogen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3097-3",
+        "name": "Urea nitrogen/Creatinine [Mass Ratio] in Serum or Plasma",
+        "display_name": "Urea nitrogen/Creatinine [Mass ratio]",
+        "range": ":[6,22];",
+        "scale_type": "Qn",
+        "part_number": "LP287338-0",
+        "part_name": "Urea nitrogen/Creatinine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3174-0",
+        "name": "Antithrombin [Units/volume] in Platelet poor plasma by Chromogenic method",
+        "display_name": "Antithrombin Chromogenic method Qn (PPP)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15394-7",
+        "part_name": "Antithrombin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3181-5",
+        "name": "Cardiolipin IgG Ab [Units/volume] in Serum by Immunoassay",
+        "display_name": "Cardiolipin IgG IA Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37537-5",
+        "part_name": "Cardiolipin Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3182-3",
+        "name": "Cardiolipin IgM Ab [Units/volume] in Serum by Immunoassay",
+        "display_name": "Cardiolipin IgM IA Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37538-3",
+        "part_name": "Cardiolipin Ab.IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3209-4",
+        "name": "Coagulation factor VIII activity actual/normal in Platelet poor plasma by Coagulation assay",
+        "display_name": "Coagulation factor VIII activity actual/normal Coag (PPP) [Relative time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP174024-2",
+        "part_name": "Coagulation factor VIII activity actual/Normal",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "32167-9",
+        "name": "Clarity of Urine",
+        "display_name": "Clarity (U)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP14742-8",
+        "part_name": "Clarity",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "32356-8",
+        "name": "Yeast [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Yeast LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP29134-1",
+        "part_name": "Yeast",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3255-7",
+        "name": "Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay",
+        "display_name": "Fibrinogen Coag (PPP) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14704-8",
+        "part_name": "Fibrinogen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "32623-1",
+        "name": "Platelet mean volume [Entitic volume] in Blood by Automated count",
+        "display_name": "Platelet mean volume Auto (Bld) [Entitic vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP17657-5",
+        "part_name": "Platelet mean volume",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "32684-3",
+        "name": "LMW Heparin [Units/volume] in Platelet poor plasma",
+        "display_name": "LMW Heparin Qn (PPP)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16001-7",
+        "part_name": "Heparin.low molecular weight",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3273-0",
+        "name": "Heparin unfractionated [Units/volume] in Platelet poor plasma by Coagulation assay",
+        "display_name": "Heparin unfractionated Coag Qn (PPP)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16002-5",
+        "part_name": "Heparin.unfractionated",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3274-8",
+        "name": "Heparin unfractionated [Units/volume] in Platelet poor plasma by Chromogenic method",
+        "display_name": "Heparin unfractionated Chromogenic method Qn (PPP)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16002-5",
+        "part_name": "Heparin.unfractionated",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3284-7",
+        "name": "Lupus anticoagulant neutralization platelet [Time] in Platelet poor plasma by Coagulation assay",
+        "display_name": "Lupus anticoagulant neutralization platelet Coag (PPP) [Time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16009-0",
+        "part_name": "Lupus anticoagulant neutralization.platelet",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3299-5",
+        "name": "Acetaminophen [Presence] in Urine",
+        "display_name": "Acetaminophen Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14712-1",
+        "part_name": "Acetaminophen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "32998-7",
+        "name": "Tissue transglutaminase IgG Ab [Units/volume] in Serum",
+        "display_name": "tTG IgG Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP40013-2",
+        "part_name": "Tissue transglutaminase Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "33037-3",
+        "name": "Anion gap in Serum or Plasma",
+        "display_name": "Anion gap [Moles/Vol]",
+        "range": "mmol/L:[7,16];",
+        "scale_type": "Qn",
+        "part_number": "LP30809-5",
+        "part_name": "Anion gap",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "33249-4",
+        "name": "Hyperchromia [Presence] in Blood by Light microscopy",
+        "display_name": "Hyperchromia LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP31531-4",
+        "part_name": "Hyperchromia",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "33768-3",
+        "name": "Leukocyte clumps [#/volume] in Urine by Automated count",
+        "display_name": "Leukocyte clumps Auto (U) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP31538-9",
+        "part_name": "Leukocyte clumps",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "33905-1",
+        "name": "Trichomonas sp [#/area] in Urine sediment by Microscopy high power field",
+        "display_name": "Trichomonas sp LM.HPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14850-9",
+        "part_name": "Trichomonas sp",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "33914-3",
+        "name": "Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)",
+        "display_name": "GFR/1.73 sq M.predicted MDRD [Vol rate/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP31686-6",
+        "part_name": "Glomerular filtration rate/1.73 sq M.predicted",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3397-7",
+        "name": "Cocaine [Presence] in Urine",
+        "display_name": "Cocaine Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP16048-8",
+        "part_name": "Cocaine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "3413-2",
+        "name": "Buprenorphine [Mass/volume] in Serum or Plasma",
+        "display_name": "Buprenorphine [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16054-6",
+        "part_name": "Buprenorphine",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "34661-9",
+        "name": "Actin IgG Ab [Units/volume] in Serum or Plasma",
+        "display_name": "Actin IgG Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP36958-4",
+        "part_name": "Actin Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4024-6",
+        "name": "Salicylates [Mass/volume] in Serum or Plasma",
+        "display_name": "Salicylates [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16276-5",
+        "part_name": "Salicylates",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "40665-2",
+        "name": "Reticulocytes [#/volume] in Blood by Manual count",
+        "display_name": "Reticulocytes Manual cnt (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16487-8",
+        "part_name": "Reticulocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4092-3",
+        "name": "Vancomycin [Mass/volume] in Serum or Plasma --trough",
+        "display_name": "Vancomycin trough [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP308056-3",
+        "part_name": "Vancomycin^trough",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "43304-5",
+        "name": "Chlamydia trachomatis rRNA [Presence] in Unspecified specimen by NAA with probe detection",
+        "display_name": "C. trachomatis rRNA NAA+probe Ql (Unsp spec)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP37619-1",
+        "part_name": "Chlamydia trachomatis rRNA",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "43396-1",
+        "name": "Cholesterol non HDL [Mass/volume] in Serum or Plasma",
+        "display_name": "Cholesterol non HDL [Mass/Vol]",
+        "range": "mg/dL:[0,160);",
+        "scale_type": "Qn",
+        "part_number": "LP36472-6",
+        "part_name": "Cholesterol.non HDL",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "43874-7",
+        "name": "Influenza virus A Ag [Presence] in Nasopharynx",
+        "display_name": "FLUAV Ag Ql (Nph)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38644-8",
+        "part_name": "Influenza virus A Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "43895-2",
+        "name": "Influenza virus B Ag [Presence] in Nasopharynx",
+        "display_name": "FLUBV Ag Ql (Nph)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38692-7",
+        "part_name": "Influenza virus B Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "44812-6",
+        "name": "Yeast.hyphae [Presence] in Unspecified specimen by Wet preparation",
+        "display_name": "Yeast.hyphae Wet prep Ql (Unsp spec)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP35886-8",
+        "part_name": "Yeast.hyphae",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4485-9",
+        "name": "Complement C3 [Mass/volume] in Serum or Plasma",
+        "display_name": "Complement C3 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16359-9",
+        "part_name": "Complement C3",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4498-2",
+        "name": "Complement C4 [Mass/volume] in Serum or Plasma",
+        "display_name": "Complement C4 [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16371-4",
+        "part_name": "Complement C4",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4537-7",
+        "name": "Erythrocyte sedimentation rate by Westergren method",
+        "display_name": "ESR Westergren method (Bld) [Velocity]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16409-2",
+        "part_name": "Erythrocyte sedimentation rate",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4542-7",
+        "name": "Haptoglobin [Mass/volume] in Serum or Plasma",
+        "display_name": "Haptoglobin [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16411-8",
+        "part_name": "Haptoglobin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4544-3",
+        "name": "Hematocrit [Volume Fraction] of Blood by Automated count",
+        "display_name": "Hematocrit Auto (Bld) [Volume fraction]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15101-6",
+        "part_name": "Hematocrit",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "4548-4",
+        "name": "Hemoglobin A1c/Hemoglobin.total in Blood",
+        "display_name": "HbA1c (Bld) [Mass fraction]",
+        "range": "%:[3.8,6.4];",
+        "scale_type": "Qn",
+        "part_number": "LP286151-8",
+        "part_name": "Hemoglobin A1c/Hemoglobin.total",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "46082-4",
+        "name": "Influenza virus A Ag [Presence] in Nasopharynx by Immunoassay",
+        "display_name": "FLUAV Ag IA Ql (Nph)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38644-8",
+        "part_name": "Influenza virus A Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "46083-2",
+        "name": "Influenza virus B Ag [Presence] in Nasopharynx by Immunoassay",
+        "display_name": "FLUBV Ag IA Ql (Nph)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38692-7",
+        "part_name": "Influenza virus B Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "48065-7",
+        "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
+        "display_name": "Fibrin D-dimer FEU (PPP) [Mass/Vol]",
+        "range": "ug/L{FEU}:[0,0.5);",
+        "scale_type": "Qn",
+        "part_number": "LP62099-4",
+        "part_name": "Fibrin D-dimer FEU",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "48642-3",
+        "name": "Glomerular filtration rate/1.73 sq M.predicted among non-blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",
+        "display_name": "GFR/1.73 sq M.predicted among non-blacks MDRD (S/P/Bld) [Vol rate/Area]",
+        "range": "ml/min/{1.73m2}:[60,inf);",
+        "scale_type": "Qn",
+        "part_number": "LP62820-3",
+        "part_name": "Glomerular filtration rate/1.73 sq M.predicted.non black",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "48643-1",
+        "name": "Glomerular filtration rate/1.73 sq M.predicted among blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",
+        "display_name": "GFR/1.73 sq M.predicted among blacks MDRD (S/P/Bld) [Vol rate/Area]",
+        "range": "ml/min/{1.73m2}:[60,inf);",
+        "scale_type": "Qn",
+        "part_number": "LP62821-1",
+        "part_name": "Glomerular filtration rate/1.73 sq M.predicted.black",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "50410-0",
+        "name": "dRVVT/dRVVT W excess phospholipid (screen to confirm ratio)",
+        "display_name": "dRVVT/dRVVT.excess phospholipid Coag (PPP) [Ratio]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP65486-0",
+        "part_name": "Coagulation dilute Russell viper venom induced/Coagulation dilute Russell viper venom induced.excess phospholipid",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "50595-8",
+        "name": "Pathologist interpretation of Unspecified specimen tests",
+        "display_name": "Pathologist interpretation (Unsp spec) [Interp]",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP19483-4",
+        "part_name": "Pathologist interpretation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5124-3",
+        "name": "Cytomegalovirus IgG Ab [Units/volume] in Serum or Plasma by Immunoassay",
+        "display_name": "CMV IgG IA Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37880-9",
+        "part_name": "Cytomegalovirus Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5126-8",
+        "name": "Cytomegalovirus IgM Ab [Units/volume] in Serum or Plasma by Immunoassay",
+        "display_name": "CMV IgM IA Qn",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37881-7",
+        "part_name": "Cytomegalovirus Ab.IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5130-0",
+        "name": "DNA double strand Ab [Units/volume] in Serum",
+        "display_name": "DNA double strand Ab Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37936-9",
+        "part_name": "DNA double strand Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5196-1",
+        "name": "Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay",
+        "display_name": "HBV surface Ag IA Ql",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP38331-2",
+        "part_name": "Hepatitis B virus surface Ag",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5403-1",
+        "name": "Varicella zoster virus IgG Ab [Units/volume] in Serum by Immunoassay",
+        "display_name": "VZV IgG IA Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP40112-2",
+        "part_name": "Varicella zoster virus Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "547-0",
+        "name": "Streptococcus.beta-hemolytic [Presence] in Unspecified specimen by Organism specific culture",
+        "display_name": "Streptococcus.beta-hemolytic Org specific cx Ql (Unsp spec)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15187-5",
+        "part_name": "Streptococcus.beta-hemolytic",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5631-7",
+        "name": "Copper [Mass/volume] in Serum or Plasma",
+        "display_name": "Copper [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16814-3",
+        "part_name": "Copper",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5644-0",
+        "name": "Ethanol [Presence] in Urine",
+        "display_name": "Ethanol Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14348-4",
+        "part_name": "Ethanol",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5763-8",
+        "name": "Zinc [Mass/volume] in Serum or Plasma",
+        "display_name": "Zinc [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14795-6",
+        "part_name": "Zinc",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5769-5",
+        "name": "Bacteria [#/area] in Urine sediment by Microscopy high power field",
+        "display_name": "Bacteria LM.HPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14082-9",
+        "part_name": "Bacteria",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5770-3",
+        "name": "Bilirubin.total [Presence] in Urine by Test strip",
+        "display_name": "Bilirubin Test strip Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15448-1",
+        "part_name": "Bilirubin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5774-5",
+        "name": "Calcium oxalate crystals [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Calcium oxalate crystals LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP32874-7",
+        "part_name": "Calcium oxalate crystals",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5793-5",
+        "name": "Granular casts [#/area] in Urine sediment by Microscopy low power field",
+        "display_name": "Granular casts LM.LPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16856-4",
+        "part_name": "Granular casts",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5794-3",
+        "name": "Hemoglobin [Presence] in Urine by Test strip",
+        "display_name": "Hemoglobin Test strip Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14449-0",
+        "part_name": "Hemoglobin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5796-8",
+        "name": "Hyaline casts [#/area] in Urine sediment by Microscopy low power field",
+        "display_name": "Hyaline casts LM.LPF (Urine sed) [#/Area]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16857-2",
+        "part_name": "Hyaline casts",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5799-2",
+        "name": "Leukocyte esterase [Presence] in Urine by Test strip",
+        "display_name": "Leukocyte esterase Test strip Ql (U)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15701-3",
+        "part_name": "Leukocyte esterase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "580-1",
+        "name": "Fungus identified in Unspecified specimen by Culture",
+        "display_name": "Fungus identified Cx Nom (Unsp spec)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP38202-5",
+        "part_name": "Fungus identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5803-2",
+        "name": "pH of Urine by Test strip",
+        "display_name": "pH Test strip (U)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14752-7",
+        "part_name": "pH",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5814-9",
+        "name": "Triple phosphate crystals [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Triple phosphate crystals LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP16860-6",
+        "part_name": "Triple phosphate crystals",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5817-2",
+        "name": "Urate crystals [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Urate crystals LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP32885-3",
+        "part_name": "Urate crystals",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5901-4",
+        "name": "Prothrombin time (PT) in Control Platelet poor plasma by Coagulation assay",
+        "display_name": "PT Coag (PPP control) [Time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16870-5",
+        "part_name": "Coagulation tissue factor induced",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5902-2",
+        "name": "Prothrombin time (PT)",
+        "display_name": "PT Coag (PPP) [Time]",
+        "range": "s:[8.3,10.8];",
+        "scale_type": "Qn",
+        "part_number": "LP16870-5",
+        "part_name": "Coagulation tissue factor induced",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "5908-9",
+        "name": "Giant platelets [Presence] in Blood by Light microscopy",
+        "display_name": "Giant platelets LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP16872-1",
+        "part_name": "Platelets.giant",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "600-7",
+        "name": "Bacteria identified in Blood by Culture",
+        "display_name": "Bacteria identified Cx Nom (Bld)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP37205-9",
+        "part_name": "Bacteria identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6007-9",
+        "name": "Protein C [Units/volume] in Platelet poor plasma by Coagulation assay",
+        "display_name": "Protein C Coag Qn (PPP)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16485-2",
+        "part_name": "Protein C",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6298-4",
+        "name": "Potassium [Moles/volume] in Blood",
+        "display_name": "Potassium (Bld) [Moles/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15098-4",
+        "part_name": "Potassium",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6301-6",
+        "name": "INR in Platelet poor plasma by Coagulation assay",
+        "display_name": "INR Coag (PPP) [Relative time]",
+        "range": ":[0.9,1.2];",
+        "scale_type": "Qn",
+        "part_number": "LP17102-2",
+        "part_name": "Coagulation tissue factor induced.INR",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6303-2",
+        "name": "dRVVT (LA screen)",
+        "display_name": "dRVVT Coag (PPP) [Time]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP17104-8",
+        "part_name": "Coagulation dilute Russell viper venom induced",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "630-4",
+        "name": "Bacteria identified in Urine by Culture",
+        "display_name": "Bacteria identified Cx Nom (U)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP37205-9",
+        "part_name": "Bacteria identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "634-6",
+        "name": "Bacteria identified in Unspecified specimen by Aerobe culture",
+        "display_name": "Bacteria identified Aer cx Nom (Unsp spec)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP37205-9",
+        "part_name": "Bacteria identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "635-3",
+        "name": "Bacteria identified in Unspecified specimen by Anaerobe culture",
+        "display_name": "Bacteria identified Anaer cx Nom (Unsp spec)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP37205-9",
+        "part_name": "Bacteria identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6443-6",
+        "name": "Lactoferrin [Presence] in Stool by Latex agglutination",
+        "display_name": "Lactoferrin LA Ql (Stl)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP15694-0",
+        "part_name": "Lactoferrin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6460-0",
+        "name": "Bacteria identified in Sputum by Culture",
+        "display_name": "Bacteria identified Cx Nom (Sput)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP37205-9",
+        "part_name": "Bacteria identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "664-3",
+        "name": "Microscopic observation [Identifier] in Unspecified specimen by Gram stain",
+        "display_name": "Microscopic observation Gram stain Nom (Unsp spec)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP40224-5",
+        "part_name": "Microscopic observation",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6690-2",
+        "name": "Leukocytes [#/volume] in Blood by Automated count",
+        "display_name": "WBC Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14419-3",
+        "part_name": "Leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "673-4",
+        "name": "Ova and parasites identified in Unspecified specimen by Light microscopy",
+        "display_name": "Ova and parasites identified LM Nom (Unsp spec)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP39248-7",
+        "part_name": "Ova & parasites identified",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6742-1",
+        "name": "Erythrocyte morphology finding [Identifier] in Blood",
+        "display_name": "RBC morphology finding Nom (Bld)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP99295-5",
+        "part_name": "Erythrocyte morphology finding",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6768-6",
+        "name": "Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma",
+        "display_name": "ALP [Catalytic activity/Vol]",
+        "range": "U/L:[30,120];",
+        "scale_type": "Qn",
+        "part_number": "LP15346-7",
+        "part_name": "Alkaline phosphatase",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6824-7",
+        "name": "Color of Body fluid",
+        "display_name": "Color (Body fld)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP28806-5",
+        "part_name": "Color",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "6968-2",
+        "name": "Proteinase 3 Ab [Units/volume] in Serum",
+        "display_name": "Proteinase 3 Ab Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP39491-3",
+        "part_name": "Proteinase 3 Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "702-1",
+        "name": "Anisocytosis [Presence] in Blood by Light microscopy",
+        "display_name": "Anisocytosis LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17274-9",
+        "part_name": "Anisocytosis",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "703-9",
+        "name": "Basophilic stippling [Presence] in Blood by Light microscopy",
+        "display_name": "Basophilic stippling LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17278-0",
+        "part_name": "Basophilic stippling",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "704-7",
+        "name": "Basophils [#/volume] in Blood by Automated count",
+        "display_name": "Basophils Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14328-6",
+        "part_name": "Basophils",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "707-0",
+        "name": "Basophils/100 leukocytes in Blood by Manual count",
+        "display_name": "Basophils/100 WBC Manual cnt (Bld)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP285063-6",
+        "part_name": "Basophils/100 leukocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "711-2",
+        "name": "Eosinophils [#/volume] in Blood by Automated count",
+        "display_name": "Eosinophils Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14539-8",
+        "part_name": "Eosinophils",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "718-7",
+        "name": "Hemoglobin [Mass/volume] in Blood",
+        "display_name": "Hemoglobin (Bld) [Mass/Vol]",
+        "range": "g/dL:[12.0,16.0];",
+        "scale_type": "Qn",
+        "part_number": "LP14449-0",
+        "part_name": "Hemoglobin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "728-6",
+        "name": "Hypochromia [Presence] in Blood by Light microscopy",
+        "display_name": "Hypochromia LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17388-7",
+        "part_name": "Hypochromia",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "731-0",
+        "name": "Lymphocytes [#/volume] in Blood by Automated count",
+        "display_name": "Lymphocytes Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14540-6",
+        "part_name": "Lymphocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "738-5",
+        "name": "Macrocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Macrocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17441-4",
+        "part_name": "Macrocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "741-9",
+        "name": "Microcytes [Presence] in Blood by Light microscopy",
+        "display_name": "Microcytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17463-8",
+        "part_name": "Microcytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7425-2",
+        "name": "House dust Hollister Stier IgE Ab [Units/volume] in Serum",
+        "display_name": "House dust Hollister Stier IgE Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP148427-0",
+        "part_name": "House dust Hollister Stier Ab.IgE",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "742-7",
+        "name": "Monocytes [#/volume] in Blood by Automated count",
+        "display_name": "Monocytes Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14313-8",
+        "part_name": "Monocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "751-8",
+        "name": "Neutrophils [#/volume] in Blood by Automated count",
+        "display_name": "Neutrophils Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14267-6",
+        "part_name": "Neutrophils",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "774-0",
+        "name": "Ovalocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Ovalocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17644-3",
+        "part_name": "Ovalocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "777-3",
+        "name": "Platelets [#/volume] in Blood by Automated count",
+        "display_name": "Platelets Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14597-6",
+        "part_name": "Platelets",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7789-1",
+        "name": "Acanthocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Acanthocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17674-0",
+        "part_name": "Acanthocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7790-9",
+        "name": "Burr cells [Presence] in Blood by Light microscopy",
+        "display_name": "Burr cells LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17676-5",
+        "part_name": "Burr cells",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7791-7",
+        "name": "Dacrocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Dacrocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17677-3",
+        "part_name": "Dacryocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7792-5",
+        "name": "Dohle body [Presence] in Blood by Light microscopy",
+        "display_name": "Dohle body LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17678-1",
+        "part_name": "Dohle body",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7797-4",
+        "name": "Rouleaux [Presence] in Blood by Light microscopy",
+        "display_name": "Rouleaux LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17684-9",
+        "part_name": "Rouleaux",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "779-9",
+        "name": "Poikilocytosis [Presence] in Blood by Light microscopy",
+        "display_name": "Poikilocytosis LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP30906-9",
+        "part_name": "Poikilocytosis",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "785-6",
+        "name": "MCH [Entitic mass] by Automated count",
+        "display_name": "MCH Auto (RBC) [Entitic mass]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP17689-8",
+        "part_name": "Erythrocyte mean corpuscular hemoglobin",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "786-4",
+        "name": "MCHC [Mass/volume] by Automated count",
+        "display_name": "MCHC Auto (RBC) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP17695-5",
+        "part_name": "Erythrocyte mean corpuscular hemoglobin concentration",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "787-2",
+        "name": "MCV [Entitic volume] by Automated count",
+        "display_name": "MCV Auto (RBC) [Entitic vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP15191-7",
+        "part_name": "Erythrocyte mean corpuscular volume",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "788-0",
+        "name": "Erythrocyte distribution width [Ratio] by Automated count",
+        "display_name": "Erythrocyte distribution width Auto (RBC) [Ratio]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP17698-9",
+        "part_name": "Erythrocyte distribution width",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7885-7",
+        "name": "Epstein Barr virus capsid IgG Ab [Units/volume] in Serum",
+        "display_name": "EBV capsid IgG Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38070-6",
+        "part_name": "Epstein Barr virus capsid Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7886-5",
+        "name": "Epstein Barr virus capsid IgM Ab [Units/volume] in Serum",
+        "display_name": "EBV capsid IgM Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38071-4",
+        "part_name": "Epstein Barr virus capsid Ab.IgM",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "789-8",
+        "name": "Erythrocytes [#/volume] in Blood by Automated count",
+        "display_name": "RBC Auto (Bld) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14304-7",
+        "part_name": "Erythrocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7909-5",
+        "name": "Herpes simplex virus 1 IgG Ab [Units/volume] in Serum",
+        "display_name": "HSV 1 IgG Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38363-5",
+        "part_name": "Herpes simplex virus 1 Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "7912-9",
+        "name": "Herpes simplex virus 2 IgG Ab [Units/volume] in Serum",
+        "display_name": "HSV 2 IgG Qn (S)",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP38378-3",
+        "part_name": "Herpes simplex virus 2 Ab.IgG",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "792-2",
+        "name": "Erythrocytes [#/volume] in Cerebral spinal fluid by Manual count",
+        "display_name": "RBC Manual cnt (CSF) [#/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP14304-7",
+        "part_name": "Erythrocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "800-3",
+        "name": "Schistocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Schistocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17715-1",
+        "part_name": "Schistocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "802-9",
+        "name": "Spherocytes [Presence] in Blood by Light microscopy",
+        "display_name": "Spherocytes LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17717-7",
+        "part_name": "Spherocytes",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "803-7",
+        "name": "Toxic granules [Presence] in Blood by Light microscopy",
+        "display_name": "Toxic granules LM Ql (Bld)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17721-9",
+        "part_name": "Toxic granules",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "8061-4",
+        "name": "Nuclear Ab [Presence] in Serum",
+        "display_name": "Nuclear Ab Ql (S)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP20752-9",
+        "part_name": "Nuclear Ab",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "8247-9",
+        "name": "Mucus [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Mucus LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP17770-6",
+        "part_name": "Mucus",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "8248-7",
+        "name": "Spermatozoa [Presence] in Urine sediment by Light microscopy",
+        "display_name": "Spermatozoa LM Ql (Urine sed)",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP14765-9",
+        "part_name": "Spermatozoa",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "882-1",
+        "name": "ABO and Rh group [Type] in Blood",
+        "display_name": "ABO and Rh group Nom (Bld)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP36683-8",
+        "part_name": "ABO & Rh group",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "883-9",
+        "name": "ABO group [Type] in Blood",
+        "display_name": "ABO group Nom (Bld)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP17806-8",
+        "part_name": "ABO group",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "890-4",
+        "name": "Blood group antibody screen [Presence] in Serum or Plasma",
+        "display_name": "Blood group antibody screen Ql",
+        "range": "",
+        "scale_type": "Ord",
+        "part_number": "LP67167-4",
+        "part_name": "Blood group antibody screen",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "9335-1",
+        "name": "Appearance of Body fluid",
+        "display_name": "Appearance (Body fld)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP14542-2",
+        "part_name": "Appearance",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "9425-0",
+        "name": "Acetone [Mass/volume] in Blood",
+        "display_name": "Acetone (Bld) [Mass/Vol]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP16798-8",
+        "part_name": "Acetone",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "9796-4",
+        "name": "Color of Stone",
+        "display_name": "Color (Stone)",
+        "range": "",
+        "scale_type": "Nom",
+        "part_number": "LP28806-5",
+        "part_name": "Color",
+        "part_type": "COMPONENT"
+    },
+    {
+        "loinc_code": "9820-2",
+        "name": "Cryptococcus sp Ag [Titer] in Serum by Latex agglutination",
+        "display_name": "Cryptococcus sp Ag LA (S) [Titer]",
+        "range": "",
+        "scale_type": "Qn",
+        "part_number": "LP37839-5",
+        "part_name": "Cryptococcus sp Ag",
+        "part_type": "COMPONENT"
+    }
+]
